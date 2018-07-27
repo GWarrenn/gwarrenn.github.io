@@ -6,7 +6,7 @@ permalink: /about/
 
 My name is August Warren.
 
-Originally from Michigan, I've been living in Washington DC since 2013 and like most people in DC, my identity entirely revolves around my work. I've previously worked in political polling and survey research and am currently working in city government. 
+I'm originally from Ann Arbor, Michigan. I've been living in Washington DC since 2013. I've previously worked in political polling and survey research and am currently working in city government. 
 
 Most of the analysis and work on this page revolves around my interest in the intersection of data and politics/policy/government/sociology.
 
