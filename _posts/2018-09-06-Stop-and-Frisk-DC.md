@@ -170,7 +170,7 @@ The plot above shows the same linear relationship between a given year's reporte
 The regression<sup>[5](#footnote-crime-race)</sup> shows a fairly similar overall relationship between reported crime and stop and frisk, but it also indicates there is a statistically significant difference between the amount of stop and frisk in neighborhoods with a majority of black residents. As the model and the plot both show, neighborhoods with a majority of black residents have greater stop and frisk rates than neighborhoods with the lowest proportion of black residents and a comparable level of crime. Specifically, neighborhoods comprised of over 95% black residents had an average of 47 more stop and frisk incidents per year compared to neighborhoods comprised of fewer then 25% black residents. This comparison is statistically significant at 99% confidence interval.
 
 <details><summary><b>How the regression model output estimates a difference of 47 stop and frisk incidents</b></summary>
-<p>
+
 $Total Stop and Frisk = (Prev. Year Crime * 0.108) + N$
 
 Comparing a neighborhood with identical levels of reported crime in the previous year but starkly different racial compositions:
@@ -189,7 +189,6 @@ $Total Stop \& Frisk = 154$
 
 Holding the amount of crime in a neighborhood constant, the crime & race model predicts that, on average, there are ~47 more incidents in neighborhoods with the highest concentrations of residents of color compared to the whiter neighborhoods of DC.
 
-</p>
 </details>
 <br>
 
@@ -332,37 +331,37 @@ This project utilized DC Open Data's block centroid dataset to geocode incidents
 Finally, the city's block dataset (retrieved March 21, 2018) appears to omit the 400 Block of 2nd Street NW. Incidents on this block were hardcoded to (38.895455, -77.013668).
 
 <a name="footnote-race-bins"></a>
-[^2].(#footnote-race-bins-ref) Bins were chosen to contain similar numbers of neighborhoods and to situate boundaries at natural gaps in the dataset. Specific assignment is shown in the figure below.
+^[2.](#footnote-race-bins-ref) Bins were chosen to contain similar numbers of neighborhoods and to situate boundaries at natural gaps in the dataset. Specific assignment is shown in the figure below.
 ![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/master/images/stop_and_frisk/nbh_racial_profiles.png)
 
 <a name="footnote-crime-only"></a>
-[^3.](#footnote-crime-only-ref) Implementation of the crime-only model in R:
+^[3.](#footnote-crime-only-ref) Implementation of the crime-only model in R:
 ```R
 yearly_model <- lm(formula = avg_sf ~ avg_prev_yr_crime,
    data = nbh_sf_avg)
 ```
 
 <a name="footnote-sf-crime"></a>
-[^4.](#footnote-sf-crime-ref) Despite having lower levels of reported crime than some other neighborhoods, the neighborhoods with the highest concentration of black residents have comparatively much higher rates of stop and frisk. This reflects the trend that neighborhoods with higher proportions of black residents tend to have lower populations but higher levels of stop and frisk per capita.
+^[4.](#footnote-sf-crime-ref) Despite having lower levels of reported crime than some other neighborhoods, the neighborhoods with the highest concentration of black residents have comparatively much higher rates of stop and frisk. This reflects the trend that neighborhoods with higher proportions of black residents tend to have lower populations but higher levels of stop and frisk per capita.
 
 ![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/master/images/stop_and_frisk/10_sf_crime_nbh_race.png)
 
 <a name="footnote-crime-race"></a>
-[^5.](#footnote-crime-race-ref) Implementation of the crime and race model in R:
+^[5.](#footnote-crime-race-ref) Implementation of the crime and race model in R:
 ```R
 yearly_model_w_race <- lm(formula = avg_sf ~ avg_prev_yr_crime + coll_bins,
                    data = nbh_sf_avg)
 ```
 
 <a name="footnote-unknown-crime"></a>
-[^6.](#footnote-unknown-crime-ref) Similarly to how we looked at stop and frisk as it compares to neighborhood racial composition, the chart below compares stop and frisk rates to neighborhood reported crime rates for that racial group. Each dot represents a racial group in a given neighborhood. If a dot is below the diagonal line, then that group is stopped at a higher rate relative to their reported crime rate in that neighborhood, and vice versa.
+^[6.](#footnote-unknown-crime-ref) Similarly to how we looked at stop and frisk as it compares to neighborhood racial composition, the chart below compares stop and frisk rates to neighborhood reported crime rates for that racial group. Each dot represents a racial group in a given neighborhood. If a dot is below the diagonal line, then that group is stopped at a higher rate relative to their reported crime rate in that neighborhood, and vice versa.
 
 Certain neighborhoods contain high proportions of crimes with unclassified or unreported racial demographics; these crimes were marked as "Unknown" and removed from analysis. The effect can be seen below for the example points labeled below: the proportion of crime committed by black, white and Hispanic/Latino residents should sum to nearly 100%, but they actually add up to 70%. Columbia Heights is among the most extreme examples of this phenomenon, but predominately black neighborhoods generally have a greater proportion of unknowns. This is a natural limitation of the data provided to and collected by the MPD, and it is difficult to measure what impact this has on the analysis. As a result of this, certain neighborhoods in the chart above will not add up to 100%.
 
 ![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/master/images/stop_and_frisk/11_nbh_crime_sf_race_scatter.png)
 
 <a name="footnote-poisson"></a>
-[^7.](#footnote-poisson-ref) Implementation of the Poisson model in R:
+^[7.](#footnote-poisson-ref) Implementation of the Poisson model in R:
 ```R
 stop_model <- glm(stop_frisks ~ race_ethn + nbh_black_bins, family=quasipoisson,
                   offset=log(prev_yr_crimes), data = stops_crimes_nbh,subset=prev_yr_crime>0 & stop_frisks>0)
