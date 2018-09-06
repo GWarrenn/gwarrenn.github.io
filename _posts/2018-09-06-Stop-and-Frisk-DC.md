@@ -325,14 +325,14 @@ These charts show the difference between the population and stop and frisk rates
 Footnotes
 --------------
 <a name="footnote-geocoding"></a>
-[^1.](#footnote-geocoding-ref) The MPD generally reports locations of stop and frisk incidents as a block (e.g. 4200 BLOCK OF 7TH STREET SE) or a corner (e.g. '46TH STREET NE / CENTRAL AVENUE NE'). The MPD did not validate these inputs, so there is significant variance in the way that the street is recorded (e.g. North Capitol Street might be recorded as 'N CAP', 'NORTH CAPITAL STREET NW', or 'N CAPITOL ST'). This project utilized several iterative regular expression replacements to fix these inconsistencies.
+^[1.](#footnote-geocoding-ref) The MPD generally reports locations of stop and frisk incidents as a block (e.g. 4200 BLOCK OF 7TH STREET SE) or a corner (e.g. '46TH STREET NE / CENTRAL AVENUE NE'). The MPD did not validate these inputs, so there is significant variance in the way that the street is recorded (e.g. North Capitol Street might be recorded as 'N CAP', 'NORTH CAPITAL STREET NW', or 'N CAPITOL ST'). This project utilized several iterative regular expression replacements to fix these inconsistencies.
 
 This project utilized DC Open Data's block centroid dataset to geocode incidents for consistency with other municipal data products. The block centroid dataset contains coordinates for every block in the city, the block's street and street number range, and the streets bookending the block. Cleaned stop and frisk incident locations were divided into either block or corner patterns. Block patterns were matched to the block street and fuzzy matched to the block street number endpoints. For corner patterns, one street of the corner was matched to the block street and the other street was matched to the bookending street. The first centroid matching this criteria in the dataset was used. There are a few ambiguous corners in DC. Florida Avenue intersects each of the lettered streets north of R Street twice in the Northwest quadrant, and Rhode Island Avenue and Brentwood Road intersect twice in the Northeast quadrant. These ambiguities account for around a dozen of the nearly 39,000 incidents and were again matched to the first corner in the dataset.
 
 Finally, the city's block dataset (retrieved March 21, 2018) appears to omit the 400 Block of 2nd Street NW. Incidents on this block were hardcoded to (38.895455, -77.013668).
 
 <a name="footnote-race-bins"></a>
-[^2.](#footnote-race-bins-ref) Bins were chosen to contain similar numbers of neighborhoods and to situate boundaries at natural gaps in the dataset. Specific assignment is shown in the figure below.
+[^2].(#footnote-race-bins-ref) Bins were chosen to contain similar numbers of neighborhoods and to situate boundaries at natural gaps in the dataset. Specific assignment is shown in the figure below.
 ![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/master/images/stop_and_frisk/nbh_racial_profiles.png)
 
 <a name="footnote-crime-only"></a>
