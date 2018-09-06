@@ -4,9 +4,8 @@ title: Racial Inequity and D.C. Stop and Frisk
 author: August Warren, Mahkah Wu, and Mika Weinstein
 ---
 
-<h3>August Warren, Mahkah Wu, and Mika Weinstein</h3>
-
 ![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/master/images/stop_and_frisk/sf_header.png)
+<h4>August Warren, Mahkah Wu, and Mika Weinstein</h4>
 
 Key Findings
 --------------
