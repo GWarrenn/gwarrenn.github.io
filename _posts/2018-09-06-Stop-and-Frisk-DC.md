@@ -1,10 +1,11 @@
+<a name="analysis"></a>
+
 ---
 layout: post
 title: Investigating Racial Inequity in D.C. Stop & Frisk
 author: August Warren, Mahkah Wu, and Mika Weinstein
 ---
 
-<a name="analysis"></a>
 ![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/master/images/stop_and_frisk/sf_header.png)
 <h4>August Warren, Mahkah Wu, and Mika Weinstein</h4>
 
