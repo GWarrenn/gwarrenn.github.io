@@ -312,10 +312,10 @@ Finally, the city's block dataset (retrieved March 21, 2018) appears to omit the
 
 <a name="footnote-crime-only"></a>
 ^[3.](#footnote-crime-only-ref) Implementation of the crime-only model in R:
-```R
+`
 yearly_model <- lm(formula = avg_sf ~ avg_prev_yr_crime,
    data = nbh_sf_avg)
-```
+`
 
 <a name="footnote-sf-crime"></a>
 ^[4.](#footnote-sf-crime-ref) Despite having lower levels of reported crime than some other neighborhoods, the neighborhoods with the highest concentration of black residents have comparatively much higher rates of stop and frisk. This reflects the trend that neighborhoods with higher proportions of black residents tend to have lower populations but higher levels of stop and frisk per capita.
@@ -324,10 +324,10 @@ yearly_model <- lm(formula = avg_sf ~ avg_prev_yr_crime,
 
 <a name="footnote-crime-race"></a>
 ^[5.](#footnote-crime-race-ref) Implementation of the crime and race model in R:
-```R
+`
 yearly_model_w_race <- lm(formula = avg_sf ~ avg_prev_yr_crime + coll_bins,
                    data = nbh_sf_avg)
-```
+`
 
 <a name="footnote-unknown-crime"></a>
 ^[6.](#footnote-unknown-crime-ref) Similarly to how we looked at stop and frisk as it compares to neighborhood racial composition, the chart below compares stop and frisk rates to neighborhood reported crime rates for that racial group. Each dot represents a racial group in a given neighborhood. If a dot is below the diagonal line, then that group is stopped at a higher rate relative to their reported crime rate in that neighborhood, and vice versa.
@@ -338,10 +338,10 @@ Certain neighborhoods contain high proportions of crimes with unclassified or un
 
 <a name="footnote-poisson"></a>
 ^[7.](#footnote-poisson-ref) Implementation of the Poisson model in R:
-```R
+`
 stop_model <- glm(stop_frisks ~ race_ethn + nbh_black_bins, family=quasipoisson,
                   offset=log(prev_yr_crimes), data = stops_crimes_nbh,subset=prev_yr_crime>0 & stop_frisks>0)
-```
+`
 
 Licensing
 --------------
