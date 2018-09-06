@@ -148,7 +148,6 @@ There are many confounding variables that influence crime and policing behavior 
 <tr><td style="text-align:left">F Statistic</td><td>161.745<sup>*** </sup> (df = 1; 37)</td></tr>
 <tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"><em>Note:</em></td><td style="text-align:right"><sup>* </sup>p<0.1; <sup>** </sup>p<0.05; <sup>*** </sup>p<0.01</td></tr>
 </table>
-<br>
 
 ![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/master/images/stop_and_frisk/09_crime_model_residuals.png)
 
@@ -194,7 +193,6 @@ The regression[⁵](#footnote-crime-race) shows a fairly similar overall relatio
 <tr><td style="text-align:left">F Statistic</td><td>144.733<sup>***</sup> (df = 1; 37)</td><td>50.605<sup>***</sup> (df = 5; 33)</td></tr>
 <tr><td colspan="3" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"><em>Note:</em></td><td colspan="2" style="text-align:right"><sup>*</sup>p<0.1; <sup>**</sup>p<0.05; <sup>***</sup>p<0.01</td></tr>
 </table>
-<br>
 
 The Benefit (and lack thereof) of the Doubt: Reintroducing Race
 --------------
@@ -232,7 +230,6 @@ The model parameters are shown below, and a plot of its output follows.
 <tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Observations</td><td>91</td></tr>
 <tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"><em>Note:</em></td><td style="text-align:right"><sup>*</sup>p<0.1; <sup>**</sup>p<0.05; <sup>***</sup>p<0.01</td></tr>
 </table>
-<br>
 
 <a name="finding-4-poisson"></a>
 ![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/master/images/stop_and_frisk/13_poisson_plot.png)
