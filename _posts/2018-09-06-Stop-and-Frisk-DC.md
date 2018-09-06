@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stop & Frisk in DC
+title: Racial Inequity in Stop and Frisk in Washington D.C.
 author: August Warren & Mahkah Wu & Mika Weinstein
 ---
 
@@ -74,7 +74,7 @@ Reflecting the disparity among juveniles, black and Hispanic/Latino adults stopp
 Across racial lines, police overwhelmingly stopped male residents. The gender disparity was slightly less pronounced among stops involving white residents. However, because stops overwhelmingly involved black residents, the number of stops involving black women was much greater then the number of stops involving white women. We explored the gender gap by age and found the gender distribution among black and Hispanic/Latino children to be nearly identical to the  distribution among black and Hispanic/Latino adults.
 
 <figure class="video_container">
-<iframe width="800" height="600" src="https://rawgit.com/mahkah/dc_stop_and_frisk/master/index.html" frameborder="0" allowfullscreen="true"></iframe>
+<iframe width="800" height="600" src="https://rawgit.com/mahkah/dc_stop_and_frisk/master/index_analysis.html" frameborder="0" allowfullscreen="true"></iframe>
 </figure>
 <br>
 
