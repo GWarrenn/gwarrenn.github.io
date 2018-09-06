@@ -236,6 +236,7 @@ The model parameters are shown below, and a plot of its output follows.
 <br>
 
 <a name="finding-4-poisson"></a>
+
 ![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/master/images/stop_and_frisk/13_poisson_plot.png)
 
 Following in the footsteps of Gelman et al., the chart above shows the number of times a stop was initiated against a member of a racial group per reported crimes committed by a member of that racial group for any neighborhood proportion of black residents. Based on the rates of reported crime and stop and frisk in actual DC neighborhoods, the model estimates that in a hypothetical neighborhood comprised of 25% black residents, a white resident would be stopped 0.07 times for every reported crime committed by a white person while a black resident would be stopped 0.27 times for every reported crime committed by a black resident. In other words, a black resident would be stopped 3.9 times as often per reported crime committed by a black resident then a white resident would be stopped per reported crime committed by a white resident.
