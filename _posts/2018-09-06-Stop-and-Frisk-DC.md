@@ -132,6 +132,7 @@ The chart above illustrates a relatively linear relationship between a given yea
 
 There are many confounding variables that influence crime and policing behavior not being considered in this simplistic approach, but this "crime-only" model shows a relatively strong relationship between a given year's reported crime level and the subsequent year's stop and frisk level with an R-squared of about .81. It predicts that, if 100 more crimes are committed in a particular neighborhood then are committed in another neighborhood over the course of a year, then that neighborhood will have nine more stop and frisk incidents over the course of the following year. The full model parameters are shown below (because 2010 census data must be used for all points, neighborhood values were averaged across all years):
 
+<div>
 <table style="text-align:center; float:left; margin-left: 163px;"><tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td><em>Dependent variable:</em></td></tr>
 <tr><td></td><td colspan="1" style="border-bottom: 1px solid black"></td></tr>
 <tr><td style="text-align:left"></td><td>Number of stops in subsequent year</td></tr>
@@ -148,8 +149,7 @@ There are many confounding variables that influence crime and policing behavior 
 <tr><td style="text-align:left">F Statistic</td><td>161.745<sup>*** </sup> (df = 1; 37)</td></tr>
 <tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"><em>Note:</em></td><td style="text-align:right"><sup>* </sup>p<0.1; <sup>** </sup>p<0.05; <sup>*** </sup>p<0.01</td></tr>
 </table>
-
-<br>
+</div>
 <br>
 
 ![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/master/images/stop_and_frisk/09_crime_model_residuals.png)
@@ -167,6 +167,7 @@ The plot above shows the same linear relationship between a given year's reporte
 <a name="footnote-crime-race-ref"></a>
 The regression[⁵](#footnote-crime-race) shows a fairly similar overall relationship between reported crime and stop and frisk, but it also indicates there is a statistically significant difference between the amount of stop and frisk in neighborhoods with a majority of black residents. As the model and the plot both show, neighborhoods with a majority of black residents have greater stop and frisk rates than neighborhoods with the lowest proportion of black residents and a comparable level of crime. Specifically, neighborhoods comprised of over 95% black residents had an average of 46.6 more stop and frisk incidents per year compared to neighborhoods comprised of fewer then 25% black residents. This comparison is statistically significant at 99% confidence interval.
 
+<div>
 <table style="text-align:center; float:left; margin-left: 133px;"><tr><td colspan="3" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td colspan="2"><em>Dependent variable:</em></td></tr>
 <tr><td></td><td colspan="2" style="border-bottom: 1px solid black"></td></tr>
 <tr><td style="text-align:left"></td><td colspan="2">Number of stops in subsequent year</td></tr>
@@ -196,9 +197,7 @@ The regression[⁵](#footnote-crime-race) shows a fairly similar overall relatio
 <tr><td style="text-align:left">F Statistic</td><td>144.733<sup>***</sup> (df = 1; 37)</td><td>50.605<sup>***</sup> (df = 5; 33)</td></tr>
 <tr><td colspan="3" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"><em>Note:</em></td><td colspan="2" style="text-align:right"><sup>*</sup>p<0.1; <sup>**</sup>p<0.05; <sup>***</sup>p<0.01</td></tr>
 </table>
-
-<br>
-<div></div>
+</div>
 <br>
 
 The Benefit (and lack thereof) of the Doubt: Reintroducing Race
@@ -219,6 +218,7 @@ The other difference from the previous model is that we're predicting the ratio 
 
 The model parameters are shown below, and a plot of its output follows.
 
+<div>
 <table align="center" style="text-align:center; float:left; margin-left: 190px;"><tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td><em>Dependent variable:</em></td></tr>
 <tr><td></td><td colspan="1" style="border-bottom: 1px solid black"></td></tr>
 <tr><td style="text-align:left"></td><td>Stop and Frisk</td></tr>
@@ -237,8 +237,8 @@ The model parameters are shown below, and a plot of its output follows.
 <tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Observations</td><td>91</td></tr>
 <tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"><em>Note:</em></td><td style="text-align:right"><sup>*</sup>p<0.1; <sup>**</sup>p<0.05; <sup>***</sup>p<0.01</td></tr>
 </table>
-
-<br><br>
+</div>
+<br>
 
 <a name="finding-4-poisson"></a>
 ![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/master/images/stop_and_frisk/13_poisson_plot.png)
@@ -321,10 +321,10 @@ Finally, the city's block dataset (retrieved March 21, 2018) appears to omit the
 
 <a name="footnote-crime-only"></a>
 ^[3.](#footnote-crime-only-ref) Implementation of the crime-only model in R:
-```R
+`R
 yearly_model <- lm(formula = avg_sf ~ avg_prev_yr_crime,
    data = nbh_sf_avg)
-```
+`
 
 <a name="footnote-sf-crime"></a>
 ^[4.](#footnote-sf-crime-ref) Despite having lower levels of reported crime than some other neighborhoods, the neighborhoods with the highest concentration of black residents have comparatively much higher rates of stop and frisk. This reflects the trend that neighborhoods with higher proportions of black residents tend to have lower populations but higher levels of stop and frisk per capita.
@@ -333,10 +333,10 @@ yearly_model <- lm(formula = avg_sf ~ avg_prev_yr_crime,
 
 <a name="footnote-crime-race"></a>
 ^[5.](#footnote-crime-race-ref) Implementation of the crime and race model in R:
-```R
+`R
 yearly_model_w_race <- lm(formula = avg_sf ~ avg_prev_yr_crime + coll_bins,
                    data = nbh_sf_avg)
-```
+`
 
 <a name="footnote-unknown-crime"></a>
 ^[6.](#footnote-unknown-crime-ref) Similarly to how we looked at stop and frisk as it compares to neighborhood racial composition, the chart below compares stop and frisk rates to neighborhood reported crime rates for that racial group. Each dot represents a racial group in a given neighborhood. If a dot is below the diagonal line, then that group is stopped at a higher rate relative to their reported crime rate in that neighborhood, and vice versa.
@@ -347,10 +347,10 @@ Certain neighborhoods contain high proportions of crimes with unclassified or un
 
 <a name="footnote-poisson"></a>
 ^[7.](#footnote-poisson-ref) Implementation of the Poisson model in R:
-```R
+R
 stop_model <- glm(stop_frisks ~ race_ethn + nbh_black_bins, family=quasipoisson,
                   offset=log(prev_yr_crimes), data = stops_crimes_nbh,subset=prev_yr_crime>0 & stop_frisks>0)
-```
+`
 
 Licensing
 --------------
