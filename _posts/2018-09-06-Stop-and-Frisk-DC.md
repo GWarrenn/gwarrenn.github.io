@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Racial Inequity and D.C. Stop and Friska
+title: Racial Inequity and D.C. Stop and Frisk
 author: August Warren, Mahkah Wu, and Mika Weinstein
 ---
 
@@ -132,8 +132,7 @@ The chart above illustrates a relatively linear relationship between a given yea
 
 There are many confounding variables that influence crime and policing behavior not being considered in this simplistic approach, but this "crime-only" model shows a relatively strong relationship between a given year's reported crime level and the subsequent year's stop and frisk level with an R-squared of about .81. It predicts that, if 100 more crimes are committed in a particular neighborhood then are committed in another neighborhood over the course of a year, then that neighborhood will have nine more stop and frisk incidents over the course of the following year. The full model parameters are shown below (because 2010 census data must be used for all points, neighborhood values were averaged across all years):
 
-<div>
-<table style="text-align:center; float:left; margin-left: 163px;"><tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td><em>Dependent variable:</em></td></tr>
+<table style="text-align:center; margin:1em auto;"><tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td><em>Dependent variable:</em></td></tr>
 <tr><td></td><td colspan="1" style="border-bottom: 1px solid black"></td></tr>
 <tr><td style="text-align:left"></td><td>Number of stops in subsequent year</td></tr>
 <tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Number of reported crimes</td><td>0.094<sup>*** </sup></td></tr>
@@ -149,7 +148,6 @@ There are many confounding variables that influence crime and policing behavior 
 <tr><td style="text-align:left">F Statistic</td><td>161.745<sup>*** </sup> (df = 1; 37)</td></tr>
 <tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"><em>Note:</em></td><td style="text-align:right"><sup>* </sup>p<0.1; <sup>** </sup>p<0.05; <sup>*** </sup>p<0.01</td></tr>
 </table>
-</div>
 <br>
 
 ![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/master/images/stop_and_frisk/09_crime_model_residuals.png)
@@ -167,8 +165,7 @@ The plot above shows the same linear relationship between a given year's reporte
 <a name="footnote-crime-race-ref"></a>
 The regression[⁵](#footnote-crime-race) shows a fairly similar overall relationship between reported crime and stop and frisk, but it also indicates there is a statistically significant difference between the amount of stop and frisk in neighborhoods with a majority of black residents. As the model and the plot both show, neighborhoods with a majority of black residents have greater stop and frisk rates than neighborhoods with the lowest proportion of black residents and a comparable level of crime. Specifically, neighborhoods comprised of over 95% black residents had an average of 46.6 more stop and frisk incidents per year compared to neighborhoods comprised of fewer then 25% black residents. This comparison is statistically significant at 99% confidence interval.
 
-<div style="display:block;">
-<table style="text-align:center; float:left; margin-left: 133px;"><tr><td colspan="3" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td colspan="2"><em>Dependent variable:</em></td></tr>
+<table style="text-align:center; margin:1em auto;"><tr><td colspan="3" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td colspan="2"><em>Dependent variable:</em></td></tr>
 <tr><td></td><td colspan="2" style="border-bottom: 1px solid black"></td></tr>
 <tr><td style="text-align:left"></td><td colspan="2">Number of stops in subsequent year</td></tr>
 <tr><td style="text-align:left"></td><td>Crime-Only Model</td><td>Crime and Race Model</td></tr>
@@ -197,7 +194,6 @@ The regression[⁵](#footnote-crime-race) shows a fairly similar overall relatio
 <tr><td style="text-align:left">F Statistic</td><td>144.733<sup>***</sup> (df = 1; 37)</td><td>50.605<sup>***</sup> (df = 5; 33)</td></tr>
 <tr><td colspan="3" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"><em>Note:</em></td><td colspan="2" style="text-align:right"><sup>*</sup>p<0.1; <sup>**</sup>p<0.05; <sup>***</sup>p<0.01</td></tr>
 </table>
-</div>
 <br>
 
 The Benefit (and lack thereof) of the Doubt: Reintroducing Race
@@ -219,7 +215,7 @@ The other difference from the previous model is that we're predicting the ratio 
 The model parameters are shown below, and a plot of its output follows.
 
 <div>
-<table align="center" style="text-align:center; float:left; margin-left: 190px;"><tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td><em>Dependent variable:</em></td></tr>
+<table align="center" style="text-align:center; margin:1em auto;"><tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td><em>Dependent variable:</em></td></tr>
 <tr><td></td><td colspan="1" style="border-bottom: 1px solid black"></td></tr>
 <tr><td style="text-align:left"></td><td>Stop and Frisk</td></tr>
 <tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Race: Black</td><td>1.363<sup>***</sup></td></tr>
@@ -237,7 +233,6 @@ The model parameters are shown below, and a plot of its output follows.
 <tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Observations</td><td>91</td></tr>
 <tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"><em>Note:</em></td><td style="text-align:right"><sup>*</sup>p<0.1; <sup>**</sup>p<0.05; <sup>***</sup>p<0.01</td></tr>
 </table>
-</div>
 <br>
 
 <a name="finding-4-poisson"></a>
