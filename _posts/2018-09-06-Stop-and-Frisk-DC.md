@@ -69,7 +69,7 @@ Racial disparity in police stops are particularly striking among children. Nearl
 Reflecting the disparity among juveniles, black and Hispanic/Latino adults stopped by police skewed younger than white adults stopped by police. The graph above shows the overall distribution of adults stopped by police by race/ethnicity. Stop and frisk incident counts peak at 18 for black and Hispanic/Latino residents and at 23 for white residents. The median age of black and Hispanic/Latino adults stopped by police is 27, compared to 30 for whites.
 
 <a name="finding-1-black-male"></a>
-![](https://github.com/GWarrenn/gwarrenn.github.io/blob/master/images/stop_and_frisk/gender_race.png)
+![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/master/images/stop_and_frisk/gender_race.png)
 
 Across racial lines, police overwhelmingly stopped male residents. The gender disparity was slightly less pronounced among stops involving white residents. However, because stops overwhelmingly involved black residents, the number of stops involving black women was much greater then the number of stops involving white women. We explored the gender gap by age and found the gender distribution among black and Hispanic/Latino children to be nearly identical to the  distribution among black and Hispanic/Latino adults.
 
