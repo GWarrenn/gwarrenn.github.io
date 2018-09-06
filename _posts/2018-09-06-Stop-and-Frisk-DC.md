@@ -292,6 +292,7 @@ Thank you also to the DC Metropolitan Police Department for making the [stop and
 <a name="appendix-force"></a>
 Appendix: Forcible vs. Non-Forcible Incidents
 --------------
+
 [Return to previous section](#appendix-force-ref)
 
 ![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/master/images/stop_and_frisk/race_contact.png)
@@ -311,6 +312,7 @@ Keeping the important difference between forcible and non-forcible stops in mind
 <a name="appendix-neighborhood"></a>
 Appendix: Complete Neighborhood Stop and Frisk and Population Counts
 --------------
+
 [Return to previous section](#appendix-neighborhood-ref)
 
 ![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/master/images/stop_and_frisk/07_nbh_diff_black.png)
