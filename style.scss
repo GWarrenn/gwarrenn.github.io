@@ -56,6 +56,7 @@ h2 {
 }
 
 h3 {
+  margin-top: 7;
   font-size: 20px;
 }
 
@@ -253,7 +254,7 @@ nav {
 
 .post {
   blockquote {
-    margin: .8em .8em;
+    margin: 3px .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
