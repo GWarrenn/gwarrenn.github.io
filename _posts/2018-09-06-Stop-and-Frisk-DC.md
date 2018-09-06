@@ -137,7 +137,7 @@ The chart above illustrates a relatively linear relationship between a given yea
 
 There are many confounding variables that influence crime and policing behavior not being considered in this simplistic approach, but this "crime-only" model shows a relatively strong relationship between a given year's reported crime level and the subsequent year's stop and frisk level with an R-squared of about .81. It predicts that, if 100 more crimes are committed in a particular neighborhood then are committed in another neighborhood over the course of a year, then that neighborhood will have nine more stop and frisk incidents over the course of the following year. The full model parameters are shown below (because 2010 census data must be used for all points, neighborhood values were averaged across all years):
 
-<table style="text-align:center"><tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td><em>Dependent variable:</em></td></tr>
+<table align="center" style="text-align:center"><tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td><em>Dependent variable:</em></td></tr>
 <tr><td></td><td colspan="1" style="border-bottom: 1px solid black"></td></tr>
 <tr><td style="text-align:left"></td><td>Number of stops in subsequent year</td></tr>
 <tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Number of reported crimes</td><td>0.094<sup>*** </sup></td></tr>
@@ -193,7 +193,7 @@ Holding the amount of crime in a neighborhood constant, the crime & race model p
 </details>
 <br>
 
-<table style="text-align:center"><tr><td colspan="3" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td colspan="2"><em>Dependent variable:</em></td></tr>
+<table align="center" style="text-align:center"><tr><td colspan="3" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td colspan="2"><em>Dependent variable:</em></td></tr>
 <tr><td></td><td colspan="2" style="border-bottom: 1px solid black"></td></tr>
 <tr><td style="text-align:left"></td><td colspan="2">Number of stops in subsequent year</td></tr>
 <tr><td style="text-align:left"></td><td>Crime-Only Model</td><td>Crime and Race Model</td></tr>
@@ -241,7 +241,7 @@ The other difference from the previous model is that we're predicting the ratio 
 
 The model parameters are shown below, and a plot of its output follows.
 
-<table style="text-align:center"><tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td><em>Dependent variable:</em></td></tr>
+<table align="center" style="text-align:center"><tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td><em>Dependent variable:</em></td></tr>
 <tr><td></td><td colspan="1" style="border-bottom: 1px solid black"></td></tr>
 <tr><td style="text-align:left"></td><td>Stop and Frisk</td></tr>
 <tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Race: Black</td><td>1.363<sup>***</sup></td></tr>
