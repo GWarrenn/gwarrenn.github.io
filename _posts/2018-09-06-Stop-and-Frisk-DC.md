@@ -214,7 +214,6 @@ The other difference from the previous model is that we're predicting the ratio 
 
 The model parameters are shown below, and a plot of its output follows.
 
-<div>
 <table align="center" style="text-align:center; margin:1em auto;"><tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td><em>Dependent variable:</em></td></tr>
 <tr><td></td><td colspan="1" style="border-bottom: 1px solid black"></td></tr>
 <tr><td style="text-align:left"></td><td>Stop and Frisk</td></tr>
@@ -233,6 +232,7 @@ The model parameters are shown below, and a plot of its output follows.
 <tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Observations</td><td>91</td></tr>
 <tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"><em>Note:</em></td><td style="text-align:right"><sup>*</sup>p<0.1; <sup>**</sup>p<0.05; <sup>***</sup>p<0.01</td></tr>
 </table>
+<br>
 
 <a name="finding-4-poisson"></a>
 ![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/master/images/stop_and_frisk/13_poisson_plot.png)
