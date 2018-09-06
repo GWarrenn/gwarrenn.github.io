@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Racial Inequity and D.C. Stop and Frisk
+title: Investigating Racial Inequity in D.C. Stop and Frisk
 author: August Warren, Mahkah Wu, and Mika Weinstein
 ---
 
