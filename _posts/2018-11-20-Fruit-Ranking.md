@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fruit Ranking or How I got 450 people to rate fruits to settle an argument
+title: Fruit Ranking!
 ---
 
 ![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/drafts/images/fruit_ranking/fruit_header.png)
@@ -9,7 +9,7 @@ title: Fruit Ranking or How I got 450 people to rate fruits to settle an argumen
 About The Survey
 --------------
 
-A few weeks ago on a late-night walk home after getting ice cream with a friend, we started talking about the best/worst kinds of fruit in ice cream, which led to a large conversation about fruits. We started asking each other fruits and assigning them to a category using a [tier list system](https://en.wikipedia.org/wiki/Tier_list), ranging from A to F. This was the genesis of an informal fruit ranking process that I unleashed in just about any social situation that would generally lead to a good argument. So after a few weeks of asking the friends to rank fruits, I decided to write a survey to definitively prove what a non-random sample of people in my network think about fruits. The first obstacle was picking the fruit; I wanted to have a lot of options without overwhelming respondents or selecting obscure fruits, leading respondents to just pick randomly to get through the survey. Some shortcuts were taken, such as only having an option for red and green apples and not splitting up grapes, leading to a fair amount of outcry.
+A few weeks ago on a late-night walk home after getting ice cream with a friend, we started talking about the best/worst kinds of fruit in ice cream, which led to a large conversation about fruits. We started asking each other fruits and assigning them to a category using a [tier list system](https://en.wikipedia.org/wiki/Tier_list), ranging from A to F. While we agreed on most fruits, some hot takes were taken and some schisms in preference were revealed. This was the genesis of an informal fruit ranking process that I unleashed in just about any social situation that would generally lead to a good argument. So after a few weeks of asking the friends to rank fruits, I decided to write a survey to definitively prove what a non-random sample of people in my social periphery think about fruits. The first obstacle was picking the fruit; I wanted to have a lot of options without overwhelming respondents or selecting obscure fruits, leading respondents to just pick randomly to get through the survey. Some shortcuts were taken, such as only having an option for red and green apples and not splitting up grapes, leading to a fair amount of outcry.
 
 As of writing this, the survey fielded 450(!) completes within the first few days and is currently still open and can be found here: (https://goo.gl/forms/92TnNIjexX4Maam63). I will continue to collect responses for the foreseeable future, updating the analysis whenever possible. So if you are reading this and haven't taken the survey yet, please stop and take the survey now to contribute your closely held fruit opinions. Thank you to everyone who took the time to complete and share this completely frivolous but important bit of research. 
 
