@@ -47,7 +47,7 @@ The two citrus fruits tested, oranges and clementines, are both positively corre
 Fruit Ranking by Demographics
 --------------
 
-For the remainder of this analysis, I'm going to introduce a new unit of measurement: the Fruit GPA<sup>TM</sup>. Because survey respondents were asked to assign fruits to a grade-level tier, we can convert these values into a numerical scale and take the average, like a GPA.
+For the remainder of this analysis, I'm going to introduce a new unit of measurement: the Fruit GPA <sup>TM</sup>. Because survey respondents were asked to assign fruits to a grade-level tier, we can convert these values into a numerical scale and take the average, like a GPA.
 
 The plot below shows the overall distribution of the fruits by their Fruit GPA score. We see a ranking that is relatively similar to the previous chart with the fruits ordered by A-tier percent. More importantly this chart also shows the standard error calculated from the standard deviation for each of the fruits. Fruits such as grapefruit, honeydew, and cantaloupe have the largest standard deviations (1.34, 1.32, and 1.30 respectively) compared to the more popular fruits like  strawberries and raspberries with smaller standard deviations (.88 and .92). The higher standard deviation for our relatively unpopular fruits indicates a relatively wider distribution/variation of ratings from the average, while the opposite is true for our popular fruits.  
 
