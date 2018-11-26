@@ -418,19 +418,19 @@ Demographic Summary Table</td></tr>
 <td style='text-align: center;'>45%</td>
 </tr>
 <tr>
-<td style='text-align: left;'>&nbsp;&nbsp;12</td>
+<td style='text-align: left;'>&nbsp;&nbsp;</td>
 <td style='text-align: center;'>30-34</td>
 <td style='text-align: center;'>99</td>
 <td style='text-align: center;'>22%</td>
 </tr>
 <tr>
-<td style='text-align: left;'>&nbsp;&nbsp;13</td>
+<td style='text-align: left;'>&nbsp;&nbsp;</td>
 <td style='text-align: center;'>35-39</td>
 <td style='text-align: center;'>48</td>
 <td style='text-align: center;'>11%</td>
 </tr>
 <tr>
-<td style='text-align: left;'>&nbsp;&nbsp;14</td>
+<td style='text-align: left;'>&nbsp;&nbsp;</td>
 <td style='text-align: center;'>40-44</td>
 <td style='text-align: center;'>18</td>
 <td style='text-align: center;'>4%</td>
