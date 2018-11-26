@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fruit Ranking!
+title: Fruit Ranking or: How I got 450 people to rate fruits to settle an argument
 ---
 
 ![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/drafts/images/fruit_ranking/fruit_header.png)
@@ -518,6 +518,7 @@ Demographic Summary Table</td></tr>
 </html>
 
 <a name="appendix-weighted"></a>
+
 Weighted Results
 --------------
 
