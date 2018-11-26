@@ -403,7 +403,6 @@ Demographic Summary Table</td></tr>
 <td style='text-align: center;'>29</td>
 <td style='text-align: center;'>7%</td>
 </tr> 
-</tr> 
 <tr><td colspan='4' style='font-weight: 900;'>Age</td></tr>
 <tr>
 <td style='text-align: left;'>&nbsp;&nbsp;</td>
