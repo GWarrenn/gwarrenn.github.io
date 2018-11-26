@@ -20,9 +20,13 @@ In order to account for the demographic skew in the data, I weighted the results
 Fruit Ranking
 --------------
 
-On average, it's clear that most people like most of the fruits presented. The majority of respondents rated the fruit items in the highest tiers: A & B, while only 16% of respondents ranked certain fruits in lowest tiers: D & F, on average.  
+On average, it's clear that most people like most of the fruits presented. The majority of respondents rated the fruit items in the highest tiers: A & B, while only 16% of respondents ranked certain fruits in lowest tiers: D & F, on average. 
 
 ![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/drafts/images/fruit_ranking/overall_bar_plot.png)
+
+Looking at the overall responses another way, respondents doled out fewer F-tier ratings, only giving 1.35 F-tier ratings on average among the 21 fruits tested, compared to the 6.5 A-tier ratings given. The intermediary tiers fell in between these two values on average. The distribution of A and F-tier responses can be found below.
+
+![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/drafts/images/fruit_ranking/a_f_tier_ratings.png)
 
 Overall, strawberries appear to be the crowd favorite (88% of respondents ranked the fruit as A or B-tier), narrowly beating out raspberries.
 
