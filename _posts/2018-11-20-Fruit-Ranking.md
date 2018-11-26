@@ -142,16 +142,16 @@ Highest/Lowest Rated Fruits by State</td></tr>
 <tr><td colspan='4' style='font-weight: 900;'>Illinois</td></tr>
 <tr>
 <td style='text-align: left;'>&nbsp;&nbsp;</td>
-<td style='text-align: center;'>Lowest Rated</td>
-<td style='text-align: center;'>Honeydew</td>
-<td style='text-align: center;'>1.62</td>
-</tr>
-<tr>
-<td style='text-align: left;'>&nbsp;&nbsp;</td>
 <td style='text-align: center;'>Highest Rated</td>
 <td style='text-align: center;'>Pineapple</td>
 <td style='text-align: center;'>3.77</td>
 </tr> 
+<tr>
+<td style='text-align: left;'>&nbsp;&nbsp;</td>
+<td style='text-align: center;'>Lowest Rated</td>
+<td style='text-align: center;'>Honeydew</td>
+<td style='text-align: center;'>1.62</td>
+</tr>
 <tr><td colspan='4' style='font-weight: 900;'>Maryland</td></tr>
 <tr>
 <td style='text-align: left;'>&nbsp;&nbsp;</td>
@@ -246,16 +246,16 @@ Highest/Lowest Rated Fruits by State</td></tr>
 <tr><td colspan='4' style='font-weight: 900;'>Washington</td></tr>
 <tr>
 <td style='text-align: left;'>&nbsp;&nbsp;</td>
-<td style='text-align: center;'>Lowest Rated</td>
-<td style='text-align: center;'>Green Apples</td>
-<td style='text-align: center;'>1.27</td>
-</tr>
-<tr>
-<td style='text-align: left;'>&nbsp;&nbsp;</td>
 <td style='text-align: center;'>Highest Rated</td>
 <td style='text-align: center;'>Blueberries</td>
 <td style='text-align: center;'>3.45</td>
 </tr> 
+<tr>
+<td style='text-align: left;'>&nbsp;&nbsp;</td>
+<td style='text-align: center;'>Lowest Rated</td>
+<td style='text-align: center;'>Green Apples</td>
+<td style='text-align: center;'>1.27</td>
+</tr>
 <tr><td colspan='4' style='font-weight: 900;'>Wisconsin</td></tr>
 <tr>
 <td style='text-align: left;'>&nbsp;&nbsp;</td>
