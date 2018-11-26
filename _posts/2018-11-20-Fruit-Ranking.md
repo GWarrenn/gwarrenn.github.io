@@ -403,6 +403,50 @@ Demographic Summary Table</td></tr>
 <td style='text-align: center;'>29</td>
 <td style='text-align: center;'>7%</td>
 </tr> 
+</tr> 
+<tr><td colspan='4' style='font-weight: 900;'>Age</td></tr>
+<tr>
+<td style='text-align: left;'>&nbsp;&nbsp;</td>
+<td style='text-align: center;'>18-24</td>
+<td style='text-align: center;'>58</td>
+<td style='text-align: center;'>13%</td>
+</tr>
+<tr>
+<td style='text-align: left;'>&nbsp;&nbsp;</td>
+<td style='text-align: center;'>25-29</td>
+<td style='text-align: center;'>203</td>
+<td style='text-align: center;'>45%</td>
+</tr>
+<tr>
+<td style='text-align: left;'>&nbsp;&nbsp;12</td>
+<td style='text-align: center;'>30-34</td>
+<td style='text-align: center;'>99</td>
+<td style='text-align: center;'>22%</td>
+</tr>
+<tr>
+<td style='text-align: left;'>&nbsp;&nbsp;13</td>
+<td style='text-align: center;'>35-39</td>
+<td style='text-align: center;'>48</td>
+<td style='text-align: center;'>11%</td>
+</tr>
+<tr>
+<td style='text-align: left;'>&nbsp;&nbsp;14</td>
+<td style='text-align: center;'>40-44</td>
+<td style='text-align: center;'>18</td>
+<td style='text-align: center;'>4%</td>
+</tr>
+<tr>
+<td style='text-align: left;'>&nbsp;&nbsp;</td>
+<td style='text-align: center;'>45-49</td>
+<td style='text-align: center;'>8</td>
+<td style='text-align: center;'>2%</td>
+</tr>
+<tr>
+<td style='text-align: left;'>&nbsp;&nbsp;</td>
+<td style='text-align: center;'>50+</td>
+<td style='text-align: center;'>16</td>
+<td style='text-align: center;'>4%</td>
+</tr> 
 <tr><td colspan='4' style='font-weight: 900;'>Household Income</td></tr>
 <tr>
 <td style='text-align: left;'>&nbsp;&nbsp;</td>
