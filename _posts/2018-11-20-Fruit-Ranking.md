@@ -24,7 +24,7 @@ On average, it's clear that most people like most of the fruits presented. The m
 
 ![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/drafts/images/fruit_ranking/overall_bar_plot.png)
 
-Looking at the overall responses another way, respondents doled out fewer F-tier ratings, only giving 1.35 F-tier ratings on average among the 21 fruits tested, compared to the 6.5 A-tier ratings given. The intermediary tiers fell in between these two values on average. The distribution of A and F-tier responses can be found below.
+Looking at the overall responses another way, respondents doled out fewer F-tier ratings, only giving 1.35 F-tier ratings on average (represented by the blue line below) among the 21 fruits tested, compared to the 6.5 A-tier ratings given (represented by the red line below). The intermediary tiers fell in between these two values on average. The distribution of A and F-tier responses can be found below.
 
 ![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/drafts/images/fruit_ranking/a_f_tier_ratings.png)
 
