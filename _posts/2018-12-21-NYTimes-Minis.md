@@ -5,6 +5,7 @@ title: NYTimes Mini Leaderboard
 
 ![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/drafts/images/minis/mini_header.png)
 
+<<<<<<< HEAD
 <html>
 <head>
 <script src="https://d3js.org/d3.v4.min.js"></script>
@@ -689,3 +690,9 @@ title: NYTimes Mini Leaderboard
 
 	</body>
 </html>
+=======
+<figure class="video_container">
+<iframe width="800" height="600" src="https://rawgit.com/GWarrenn/nytimes-minis/master/index.html" frameborder="0" allowfullscreen="true"></iframe>
+</figure>
+<br>
+>>>>>>> parent of 7abb60e... NYTimes Minis: Fixing iFrame Height
