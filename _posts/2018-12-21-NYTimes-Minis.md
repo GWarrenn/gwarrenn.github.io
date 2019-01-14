@@ -5,7 +5,6 @@ title: NYTimes Mini Leaderboard
 
 ![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/drafts/images/minis/mini_header.png)
 
-<!DOCTYPE html>
 <html>
 <head>
 <script src="https://d3js.org/d3.v4.min.js"></script>
@@ -117,7 +116,7 @@ title: NYTimes Mini Leaderboard
 		<div id="leaderboard-table"></div>
 		<p style="font-size:12px">Last updated: <span id="datetime"></span></p>
 
-		<div id='container' align="center">
+<div id='container' align="center">
 			<p id='selector'> Compare <select align="center" id='first_contender'></select> and <select align="center" id='second_contender'></select></p>
 			<p id="matchups"> <div id=result_text></div> </p>
 		</div>
