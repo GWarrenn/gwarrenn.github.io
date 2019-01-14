@@ -118,7 +118,7 @@ title: NYTimes Mini Leaderboard
 
 <div id='container' align="center">
 			<p id='selector'> Compare <select align="center" id='first_contender'></select> and <select align="center" id='second_contender'></select></p>
-			<p id="matchups"> <div id=result_text></div> </p>
+			<div id=result_text></div>
 		</div>
 		<div id='chart-header' align="center"></div>
 		<div id='chart' align="center"></div>
@@ -176,7 +176,7 @@ title: NYTimes Mini Leaderboard
 					}
 
 					if(filter_param === "All time"){
-						var dateOffset = (24*60*60*1000) * 36;
+						var dateOffset = (24*60*60*1000) * 365;
 						var today = new Date();
 						var filter = today - dateOffset
 					}
@@ -316,7 +316,7 @@ title: NYTimes Mini Leaderboard
 					fastest_time = _.minBy(_.keys(avg_times), function (o) { return avg_times[o].avg_complete_time; });
 
 		   		crossword_queen = avg_times[fastest_time].lower_case
-		   		document.getElementById("crossword_queen").innerHTML = "👑 All hail the Crossword Queen (for " + filter_param + "): <b>" + crossword_queen + " </b> 👑"
+		   		document.getElementById("crossword_queen").innerHTML = "👑 All hail the Crossword Queen (" + filter_param + "): <b>" + crossword_queen + " </b> 👑"
 
 		   		}
 
