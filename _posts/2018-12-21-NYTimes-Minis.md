@@ -5,37 +5,7 @@ title: NYTimes Mini Leaderboard
 
 ![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/drafts/images/minis/mini_header.png)
 
-<html>
-<head>
-<meta charset="UTF-8">
-<script src="https://d3js.org/d3.v4.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.4.3/tabletop.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/lodash@4.17.10/lodash.min.js"></script>
-
-<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/GWarrenn/nytimes-minis/master/style.css">
-
-</head>
-	<body>
-		<h1 align="center" style="font-family:cheltenham;">New York Times Mini Crossword Leaderboard</h1>
-		<div id='crossword_queen' align="center"></div>
-	   	<div id='container'>
-			<p> Select Date Range: <select align="center" id='dateDropdown'></select></p>
-		</div>
-		<div id="leaderboard-table"></div>
-		<p style="font-size:12px">Last updated: <span id="datetime"></span></p>
-
-		<div id='container' align="center">
-			<p id='selector'> Compare <select align="center" id='first_contender'></select> and <select align="center" id='second_contender'></select></p>
-			<p id="matchups"> <div id=result_text></div> </p>
-		</div>
-		<div id='chart-header' align="center"></div>
-		<div style="font-size:12px" id='percent_faster' align="center"></div>
-
-		<div id='chart' align="center"></div>
-
-		<script type="text/javascript" src="https://raw.githubusercontent.com/GWarrenn/nytimes-minis/master/script.js"></script>
-
-	</body>
-</html>
-
+<figure class="video_container">
+<iframe width="800" height="2000" src="https://rawgit.com/GWarrenn/nytimes-minis/master/index.html" frameborder="0" allowfullscreen="true"></iframe>
+</figure>
+<br>
