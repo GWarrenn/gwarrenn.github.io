@@ -5,7 +5,6 @@ title: NYTimes Mini Leaderboard
 
 ![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/drafts/images/minis/mini_header.png)
 
-<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
