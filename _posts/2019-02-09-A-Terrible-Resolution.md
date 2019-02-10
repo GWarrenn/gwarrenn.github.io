@@ -1,33 +1,33 @@
 ---
 layout: post
-title: 2000: A Cycling Odyssey 
+title: 2000 A Cycling Odyssey 
 ---
 
 ![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/master/images/cycling_odyssey/fancy_horse.png)
 
 For 2019, I decided to set a goal: bike 2000 miles over the course of the year. In order to keep myself accountable, I decided that I would make some public facing visualizations using Strava data to publicly shame/reward me for my progress. Then, another idea came to mind: what if I set up a betting market around my progress? I decided that I would turn myself into a fancy racehorse and let people try to guess how much progress I will have made towards my goal as of December 31st, 2019. At the end of the year the top three will receive a share of the pot. I will also donate a share of the pool towards a charity of choice.
 
-I'll additionally be working on some progress tracking visualizations in the coming weeks, but in the meantime you can view my progress through my (Strava account)[https://www.strava.com/athletes/4778598]. As of writing this I've officially logged ~110 miles this year (5% towards my goal, but we're already 11% of the way through the year)  
+I'll additionally be working on some progress tracking visualizations in the coming weeks, but in the meantime you can view my progress through my [Strava account](https://www.strava.com/athletes/4778598). As of writing this I've officially logged ~110 miles this year (5% towards my goal, but we're already 11% of the way through the year)  
 
 If you want to be a part of this, please fill out the following Google Form document, [linked here](https://goo.gl/forms/8wuWYvhSxC8vkHXG2), and follow the payment instructions.
 
 Some Ground Rules
 --------------
 
-1) One entry/bet is $5. The initial betting will only be open until March 1st. You can make a guess without betting money, but in that case all that you win will be the satisfaction of being right and the payout will go to the next closest guess.
-2) The person with the closest bet to the actual outcome as of December 31st, 2019 at 11:59:59 eastern time (without going over) will be declared the winner. In the event of a tie, the winners will split the winnings. So if five people pick the same winning number, they all split the first place prize. It might be wise to avoid common numbers that others might pick (ie 500, 1000, 1500). Or, now that I've said this and no one will pick them, maybe you SHOULD pick them!
-3) Obviously, you can guess as high or low as you want. I don't plan on stopping for the year if I hit 2000 miles, but there is obviously a limitation on my frail human body.
-4) You can enter as many guesses as you want. If you decide to enter more than one guess, but only bet money on one guess, you must specify which guess is attached to the bet. 
+1. One entry/bet is $5. The initial betting will only be open until March 1st. You can make a guess without betting money, but in that case all that you win will be the satisfaction of being right and the payout will go to the next closest guess.
+2. The person with the closest bet to the actual outcome as of December 31st, 2019 at 11:59:59 eastern time (without going over) will be declared the winner. In the event of a tie, the winners will split the winnings. So if five people pick the same winning number, they all split the first place prize. It might be wise to avoid common numbers that others might pick (ie 500, 1000, 1500). Or, now that I've said this and no one will pick them, maybe you SHOULD pick them!
+3. Obviously, you can guess as high or low as you want. I don't plan on stopping for the year if I hit 2000 miles, but there is obviously a limitation on my frail human body.
+4. You can enter as many guesses as you want. If you decide to enter more than one guess, but only bet money on one guess, you must specify which guess is attached to the bet. 
 
-5) Payouts are as follows, once the pool is closed and all bets are collected the percentages will be updated with actual dollar amounts.
+5. Payouts are as follows, once the pool is closed and all bets are collected the percentages will be updated with actual dollar amounts.
 
 	1st place: 50%
 	2nd place: 15%
 	3rd place: 10%
 	Charity ([TBA](https://vignette.wikia.nocookie.net/arresteddevelopment/images/3/38/3x07_Prison_Break-In_%2815%29.png/revision/latest?cb=20130322225845)): 25%
 
-6) I will not see any of the bets until the year is over, as I want to minimize any bias in how I ride. 
-7) If I sustain any injuries throughout the year that would keep me off my bike for longer than a month, all bets are off; you will be refunded your original bet and I will donate the money to charity myself.
+6. I will not see any of the bets until the year is over, as I want to minimize any bias in how I ride. 
+7. If I sustain any injuries throughout the year that would keep me off my bike for longer than a month, all bets are off; you will be refunded your original bet and I will donate the money to charity myself.
 
 If there is sufficient enough interest, there may be monthly pools, where you all will have the opportunity to bet on monthly distances in addition to the yearly bet.
 
