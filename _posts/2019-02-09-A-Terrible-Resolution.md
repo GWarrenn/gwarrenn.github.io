@@ -15,21 +15,25 @@ Some Ground Rules
 --------------
 
 1. One entry/bet is $5. The initial betting will only be open until March 1st. You can make a guess without betting money, but in that case all that you win will be the satisfaction of being right and the payout will go to the next closest guess.
+
 2. The person with the closest bet to the actual outcome as of December 31st, 2019 at 11:59:59 eastern time (without going over) will be declared the winner. In the event of a tie, the winners will split the winnings. So if five people pick the same winning number, they all split the first place prize. It might be wise to avoid common numbers that others might pick (ie 500, 1000, 1500). Or, now that I've said this and no one will pick them, maybe you SHOULD pick them!
+
 3. Obviously, you can guess as high or low as you want. I don't plan on stopping for the year if I hit 2000 miles, but there is obviously a limitation on my frail human body.
+
 4. You can enter as many guesses as you want. If you decide to enter more than one guess, but only bet money on one guess, you must specify which guess is attached to the bet. 
 
 5. Payouts are as follows, once the pool is closed and all bets are collected the percentages will be updated with actual dollar amounts.
 
-	1st place: 50%
-	2nd place: 15%
-	3rd place: 10%
-	Charity ([TBA](https://vignette.wikia.nocookie.net/arresteddevelopment/images/3/38/3x07_Prison_Break-In_%2815%29.png/revision/latest?cb=20130322225845)): 25%
+	* 1st place: 50%
+	* 2nd place: 15%
+	* 3rd place: 10%
+	* Charity ([TBA](https://vignette.wikia.nocookie.net/arresteddevelopment/images/3/38/3x07_Prison_Break-In_%2815%29.png/revision/latest?cb=20130322225845)): 25%
 
 6. I will not see any of the bets until the year is over, as I want to minimize any bias in how I ride. 
+
 7. If I sustain any injuries throughout the year that would keep me off my bike for longer than a month, all bets are off; you will be refunded your original bet and I will donate the money to charity myself.
 
-If there is sufficient enough interest, there may be monthly pools, where you all will have the opportunity to bet on monthly distances in addition to the yearly bet.
+If there is sufficient interest, there may be monthly pools, where you all will have the opportunity to bet on monthly distances in addition to the yearly bet.
 
 About This Fancy Racehorse
 --------------
@@ -38,7 +42,7 @@ In order to allow people to make a somewhat informed bet, I'll give some backgro
 
 I'm 28 years old and I've been biking for the past 8 years. I ride a 2014 Trek 1.5C, which has seen a good amount of mileage over the years, serving as my commuting and long-distance bike.
 
-In previous years, I've undertaken some longer rides, including two 100 mile rides (https://www.strava.com/activities/337245565 & https://www.strava.com/activities/159745215). I hope to work up to another century this year, but a "normal" weekend ride for me will generally range between 20 & 50 miles.
+In previous years, I've undertaken some longer rides, including two 100 mile rides ([like this one](https://www.strava.com/activities/337245565) & [this one](https://www.strava.com/activities/159745215)). I hope to work up to another century this year, but a "normal" weekend ride for me will generally range between 20 & 50 miles.
 
 I work a traditional 9 to 5 office job within DC, where I also live. On most days, when the weather isn't too terrible and I'm feeling up for it, I'll bike to and from work, which is about 8 miles round trip. In the past, I haven't recorded these activities because it's such a short ride, but I will be counting these rides towards the total this year (Sorry in advance if you're one of the few people that follow me on Strava)
 
