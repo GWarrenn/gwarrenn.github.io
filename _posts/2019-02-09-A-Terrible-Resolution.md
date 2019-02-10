@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2000 A Cycling Odyssey 
+title: "2000: A Cycling Odyssey" 
 ---
 
 ![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/master/images/cycling_odyssey/fancy_horse.png)
