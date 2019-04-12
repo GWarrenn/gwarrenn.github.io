@@ -7,6 +7,6 @@ title: The Story of the Bachelor-ette
 Graphics by: <a target="_blank" href="https://www.vecteezy.com/">Vecteezy</a>
 
 <figure class="video_container">
-<iframe width="800" height="2500" src="https://raw.githack.com/GWarrenn/bachelor-ette/master/index.html" frameborder="0" allowfullscreen="true"></iframe>
+<iframe width="1000" height="1500" src="https://raw.githack.com/GWarrenn/bachelor-ette/master/index.html" frameborder="0" allowfullscreen="true"></iframe>
 </figure>
 <br>
