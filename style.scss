@@ -23,9 +23,18 @@ body {
   color: $darkGray;
 }
 
-.container {
+//creating wider container for some pages while retaining original 'container format
+
+.container_wider {
   margin: 0 auto;
   max-width: 1000px;
+  padding: 0 10px;
+  width: 100%;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 740px;
   padding: 0 10px;
   width: 100%;
 }
