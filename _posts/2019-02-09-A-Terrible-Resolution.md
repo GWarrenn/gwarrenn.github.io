@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_wider
 title: "2000: A Cycling Odyssey" 
 ---
 
@@ -7,9 +7,11 @@ title: "2000: A Cycling Odyssey"
 
 For 2019, I decided to set a goal: bike 2000 miles over the course of the year. In order to keep myself accountable, I decided that I would make some public facing visualizations using Strava data to publicly shame/reward me for my progress. Then, another idea came to mind: what if I set up a betting market around my progress? I decided that I would turn myself into a fancy racehorse and let people try to guess how much progress I will have made towards my goal as of December 31st, 2019. At the end of the year the top three will receive a share of the pot. I will also donate a share of the pool towards a charity of choice.
 
-I'll additionally be working on some progress tracking visualizations in the coming weeks, but in the meantime you can view my progress through my [Strava account](https://www.strava.com/athletes/4778598). As of writing this I've officially logged ~110 miles this year (5% towards my goal, but we're already 11% of the way through the year)  
+In order to allow gamblers keep track of their bets, I've built the following progress tracking visualization, which processes scraped data from my [Strava account](https://www.strava.com/athletes/4778598). The process isn't entirely live/automated because the security protocol the Strava API uses and technical limitations on my part, so there may be a bit of a lag in reporting.
 
-If you want to be a part of this, please fill out the following Google Form document, [linked here](https://goo.gl/forms/8wuWYvhSxC8vkHXG2), and follow the payment instructions.
+<figure class="video_container">
+<iframe width="1000" height="800" src="https://raw.githack.com/GWarrenn/fancy-racehorse/master/index.html" frameborder="0" allowfullscreen="true"></iframe>
+</figure>
 
 Some Ground Rules
 --------------
@@ -27,7 +29,7 @@ Some Ground Rules
 	* 1st place: 50%
 	* 2nd place: 15%
 	* 3rd place: 10%
-	* Charity ([TBA](https://vignette.wikia.nocookie.net/arresteddevelopment/images/3/38/3x07_Prison_Break-In_%2815%29.png/revision/latest?cb=20130322225845)): 25%
+	* Charity ([Women Involved in Reentry Efforts (The WIRE)](https://thewiredc.org/)): 25%
 
 6. I will not see any of the bets until the year is over, as I want to minimize any bias in how I ride. 
 
