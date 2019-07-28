@@ -10,7 +10,7 @@ For 2019, I decided to set a goal: bike 2000 miles over the course of the year. 
 In order to allow gamblers keep track of their bets, I've built the following progress tracking visualization, which processes scraped data from my [Strava account](https://www.strava.com/athletes/4778598). The visualization on the left shows my cumulative progress as a percentage of 2000 miles alongside a diagonal reference line showing a consistent pace needed to hit 2000 miles within a year. The visualization on the right plots the average speed and total distance of each bike ride throughout the year. Strava allows users to tag certain rides as commutes, which I've coded in the lighter colors, while the darker dots represent longer, performance-oriented rides. The process isn't entirely live/automated because the security protocol the Strava API uses and technical limitations on my part, so there may be a bit of a lag in reporting.
 
 <figure class="video_container">
-<iframe width="1000" height="700" src="https://raw.githack.com/GWarrenn/fancy-racehorse/master/index.html" frameborder="0" allowfullscreen="true"></iframe>
+<iframe width="2000" height="700" src="https://raw.githack.com/GWarrenn/fancy-racehorse/master/index.html" frameborder="0" allowfullscreen="true"></iframe>
 </figure>
 
 Some Ground Rules
