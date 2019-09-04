@@ -46,7 +46,7 @@ About This Fancy Racehorse
 
 In order to allow people to make a somewhat informed bet, I'll give some background as to my biking experience, general physical fitness, and social habits.
 
-I'm 28 years old and I've been biking for the past 8 years. I ride a 2014 Trek 1.5C, which has seen a good amount of mileage over the years, serving as my commuting and long-distance bike.
+I'm 28 years old and I've been biking for the past 8 years. I ride a 2014 Trek 1.5C & a 2019 Trek Emonda SL5 (mid-year purchase), which has seen a good amount of mileage over the years, serving as my commuting and long-distance bike.
 
 In previous years, I've undertaken some longer rides, including two 100 mile rides ([like this one](https://www.strava.com/activities/337245565) & [this one](https://www.strava.com/activities/159745215)). I hope to work up to another century this year, but a "normal" weekend ride for me will generally range between 20 & 50 miles.
 
