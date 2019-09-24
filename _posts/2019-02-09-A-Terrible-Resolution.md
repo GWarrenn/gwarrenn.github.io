@@ -11,7 +11,7 @@ In order to allow gamblers keep track of their bets, I've built the following pr
 
 <b>UPDATE:</b> As of September 1st, I've hit my goal of riding 2000 miles! To celebrate the occasion, I've decided to open a second, End of the Year betting pool to give people a shot at redemption (I don't know what people initially bet, but I get the impression that some people had no confidence in me). My plan is to keep biking with the same intensity before the year runs out -- maybe I'll hit 3000?? Same rules as the first time around, listed below the progress visualizations. A few specific rules: The end of the year pool is separate from the pot of money from the initial betting pool, as you'll all have more information than those who entered in February. You don't have to have entered the first pool to enter this one, so this is your chance to get in on the fun! 
 
-If you entered the Start of the Year betting pool, <b>[enter your predictions here](https://forms.gle/UChh1TPFpfq3W88G7)</b>. If not, <b>[enter your predictions here](https://forms.gle/YwWkq5xozuGHhynCA)</b>
+<b>Both Pools are now closed!</b>
 
 <figure class="video_container">
 <iframe width="1000" height="1250" src="https://raw.githack.com/GWarrenn/fancy-racehorse/master/index.html" frameborder="0" allowfullscreen="true"></iframe>
