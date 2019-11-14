@@ -18,14 +18,14 @@ Despite the poor group performance in the Battle of Winterfell Deadpool, the fat
 When it came time for Clegane-Bowl, the majority of Deadpoolers guessed correctly that both brothers would die. However, slightly more people (39% compared to 11%) expected that Sandor Clegane would survive the battle. Sweet summer children.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GWarrenn/got-deadpool/master/results/character_outcomes.png" width="500" />
-  <img src="https://raw.githubusercontent.com/GWarrenn/got-deadpool/master/results/character_outcomes_westeros.png" width="500" /> 
+  <img src="https://raw.githubusercontent.com/GWarrenn/got-deadpool/master/results/character_outcomes.png" width="450" />
+  <img src="https://raw.githubusercontent.com/GWarrenn/got-deadpool/master/results/character_outcomes_westeros.png" width="450" /> 
 </p>
 
 Among the 23 people who filled out both the Winterfell and Kings Landing Deadpools, just about everyone predicted the fates of the listed characters more accurately in the Battle of Kings Landing, including yours truly who jumped from 25th place last round to 2nd this round. Only one person performed worse in the Battle of Kings Landing than the Battle of Winterfell.
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/GWarrenn/got-deadpool/master/results/prev_week_comparison.png" width="500" />
+	<img src="https://raw.githubusercontent.com/GWarrenn/got-deadpool/master/results/prev_week_comparison.png" width="750" />
 </p>
 
 When it comes to Deadpooling, it seems that experience pays off (slightly). The 23 people who completed both the Battle of Winterfell and Battle of Kings Landing Deadpools correctly predicted 81% of the character's fates on average, compared to 75% from the newcomers.  
@@ -36,7 +36,7 @@ On the topic of death, the Deadpool predicted that there would be <b>waaay</b> m
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GWarrenn/got-deadpool/master/results/fates_plots.png" width="500" />
-  <img src="https://raw.githubusercontent.com/GWarrenn/got-deadpool/master/results/fates_plots_westeros.png" width="500" /> 
+  <img src="https://raw.githubusercontent.com/GWarrenn/got-deadpool/master/results/fates_plots.png" width="450" />
+  <img src="https://raw.githubusercontent.com/GWarrenn/got-deadpool/master/results/fates_plots_westeros.png" width="450" /> 
 </p>
 
