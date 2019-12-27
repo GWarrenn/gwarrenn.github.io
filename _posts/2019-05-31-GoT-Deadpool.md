@@ -21,8 +21,7 @@ When it came time for Clegane-Bowl, the majority of Deadpoolers guessed correctl
 
 #### Battle of Winterfell & Kings Landing Character Predictions
 
-![](https://raw.githubusercontent.com/GWarrenn/got-deadpool/master/results/character_outcomes.png)
-![](https://raw.githubusercontent.com/GWarrenn/got-deadpool/master/results/character_outcomes_westeros.png)
+<img src="https://raw.githubusercontent.com/GWarrenn/got-deadpool/master/results/character_outcomes_westeros.png" width="450"/> <img src="https://raw.githubusercontent.com/GWarrenn/got-deadpool/master/results/character_outcomes.png" width="450"/> 
 
 ___
 
@@ -39,8 +38,5 @@ On the topic of death, the Deadpool predicted that there would be <b>waaay</b> m
 
 #### Battle of Winterfell & Kings Landing Predictions by Percent Predicted to Die
 
-![](https://raw.githubusercontent.com/GWarrenn/got-deadpool/master/results/fates_plots.png)
-
-![](https://raw.githubusercontent.com/GWarrenn/got-deadpool/master/results/fates_plots_westeros.png)
-
+<img src="https://raw.githubusercontent.com/GWarrenn/got-deadpool/master/results/fates_plots_westeros.png" width="450"/> <img src="https://raw.githubusercontent.com/GWarrenn/got-deadpool/master/results/fates_plots.png" width="450"/> 
 
