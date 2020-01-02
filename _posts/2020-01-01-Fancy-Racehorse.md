@@ -38,12 +38,31 @@ Besides biking 2,000 miles, another goal was to ride an imperial century (100 mi
 
 <img src="https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/master/images/fancy-racehorse/century.PNG"/>
 
-## Miles around the World
+## Miles Around the World
 
 One of the things I really enjoy about this project is that it captured a number of experiences throughout the year. At the tail end of a summer trip in Europe, I found myself stranded in Oslo due to an abrupt flight cancellation. I used the day between flights to rent a tank of a city bike and explore the city. Two months later, I rented a proper road bike in Seattle without putting on any sunscreen and got absolutely roasted. Then in November, I visited the Lexus Velodrome in Detroit and rode on a track for the first time, which was terrifying but so much damn fun.
 
-<img src="https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/master/images/fancy-racehorse/oslo.PNG" width="300"/> <img src="https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/master/images/fancy-racehorse/seattle.png" width="300"/> 
-<img src="https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/master/images/fancy-racehorse/velodrome.PNG" width="300"/>
+<details>
+<summary>Oslo, Norway</summary>
+<br>
+<img align="middle" src="https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/master/images/fancy-racehorse/oslo.PNG"/>
+</details>
+
+___
+
+<details>
+<summary>Seattle, Washington</summary>
+<br>
+<img align="middle" src="https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/master/images/fancy-racehorse/seattle.png"/>
+</details>
+
+___
+
+<details>
+<summary>Lexus Velodrome - Detroit, Michigan</summary>
+<br>
+<img align="middle" src="https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/master/images/fancy-racehorse/velodrome.PNG"/>
+</details>
 
 ___
 
