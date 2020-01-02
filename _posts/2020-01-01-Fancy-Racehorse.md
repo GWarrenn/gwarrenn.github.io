@@ -83,7 +83,7 @@ Once the geographic data was processed and converted to GeoJSON, I needed to thi
 
 ## Mapping
 
-Ironically, the mapping portion of this was probably the smallest part of the work. As I mentioned before, all of the mapping was done using [Mapbox.js](https://docs.mapbox.com/help/glossary/mapbox-gl-js/) in JavaScript. This was mostly opted for because of the very cool work my friend and colleague, Mahkah Wu, did with the library in previous [Stop & Frisk mapping](https://rawgit.com/mahkah/dc_stop_and_frisk/master/index.html). In order to paint a clearer picture of my riding habits, I created a custom minmialist map style, which removed all man-made geographic elements.
+Ironically, the mapping portion of this was probably the smallest part of the work. As I mentioned before, all of the mapping was done using [Mapbox.js](https://docs.mapbox.com/help/glossary/mapbox-gl-js/) in JavaScript. This was mostly opted for because of the very cool work my friend and colleague, Mahkah Wu, did with the library in previous [Stop & Frisk mapping](https://rawgit.com/mahkah/dc_stop_and_frisk/master/index.html). In order to paint a clearer picture of my riding habits, I created a custom minimalist map style, which removed all man-made geographic elements.
 
 ___
 
