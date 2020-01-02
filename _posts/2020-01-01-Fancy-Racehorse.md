@@ -29,6 +29,7 @@ Also, if you zoom in a bit you can see each individual line from every ride that
 
 <img align="left" src="https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/fancy-racehorse/images/fancy-racehorse/rock_creek_park_zoom.PNG">
 
+<br clear="left"/>
 <br clear="right"/>
 
 ##Longest Ride
