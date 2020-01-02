@@ -14,6 +14,7 @@ More detailed and technical information on this process can be found [here](#met
 <figure class="video_container">
 <iframe width="1000" height="1250" src="https://raw.githack.com/GWarrenn/fancy-racehorse/master/mapping/index.html" frameborder="0" allowfullscreen="true"></iframe>
 </figure>
+
 ___
 
 In total, I spent <b>236 hours, 33 minutes and 11 seconds</b>, biking <b>3,322</b> miles on <b>422</b> different rides, climbing a total of <b>123,101</b> feet over the course of the year, riding my bike at least once on 233 days. Rides that I tagged as commutes (ie. riding to work or around town) ended up accounting for just under half of my mileage at 1,599 miles with an average distance of 4.45 miles over 359 recorded rides. The other half of my mileage ended up coming from 63 recorded rides at an average of 27.4 miles each.
@@ -23,6 +24,8 @@ In total, I spent <b>236 hours, 33 minutes and 11 seconds</b>, biking <b>3,322</
 <img align="right" src="https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/fancy-racehorse/images/fancy-racehorse/rock_creek_park.PNG">
 
 One of the things that stands out the most to me in the map is the bright, solid, curvy line that is lit up in the Northwest part of DC, which some people may recognize as Rock Creek Park. This is by far my favorite place to ride in DC. The road, which is closed to cars on the weekend, is incredibly scenic, has some great climbs and descents, and was recently re-paved. The park is also right in the heart of DC meaning that it was easy to get to for a quick ride and that I'm not stranded in the middle of nowhere if I get a flat or start to feel miserable.  
+
+<br style="clear:both" />
 
 ##Longest Ride
 
