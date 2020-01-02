@@ -20,7 +20,7 @@ In total, I spent <b>236 hours, 33 minutes and 11 seconds</b>, biking <b>3,322</
 
 ##An Ode to Rock Creek Park
 
-<img align="right" src="https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/fancy-racehorse/images/fancy-racehorse/rock_creek_park.png">
+<img align="right" src="https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/fancy-racehorse/images/fancy-racehorse/rock_creek_park.PNG">
 
 One of the things that stands out the most to me in the map is the bright, solid, curvy line that is lit up in the Northwest part of DC, which some people may recognize as Rock Creek Park. This is by far my favorite place to ride in DC. The road, which is closed to cars on the weekend, is incredibly scenic, has some great climbs and descents, and was recently re-paved. The park is also right in the heart of DC meaning that it was easy to get to for a quick ride and that I'm not stranded in the middle of nowhere if I get a flat or start to feel miserable.  
 
@@ -28,14 +28,14 @@ One of the things that stands out the most to me in the map is the bright, solid
 
 Besides biking 2,000 miles, another goal of mine was to ride an imperial century (100 miles). I've ridden two in the past, but they destroyed me and my time/average pace showed some room for improvement. My route of choice is the Washington & Old Dominion trail, which offers a 100 mile round trip from DC to Purcelville, VA and back. The path is in great shape and offers tons of pit stops along the way, including a great BBQ place for much needed calories. I made a [foolish attempt](https://www.strava.com/activities/2630872257) for the Century on one of the hottest days of the year on a mildly strained ankle in July. The failure of the first attempt has me pretty dissuaded until pretty late in the season. With the year ending, I realized I only had a small window of time left before the weather turned on me, so I gave it [another shot](https://www.strava.com/activities/2858466484) on a November 11th. Despite a very sore butt, I ended up shaving 15 minutes off my previous best time and, better yet, didn't feel like I was going into shock after the ride was over.
 
-<img src="https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/fancy-racehorse/images/fancy-racehorse/century.png"/>
+<img src="https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/fancy-racehorse/images/fancy-racehorse/century.PNG"/>
 
 ##Miles around the World
 
 One of the things I really enjoy about this project is that it captured a number of experiences throughout the year. At the tail end of a summer trip in Europe, I found myself stranded in Oslo due to an abrupt flight cancellation. I used the day between flights to rent a tank of a city bike and explore the city. Two months later, I rented a proper road bike in Seattle without putting on any sunscreen and got absolutely roasted. Then in November, I visited the Lexus Velodrome in Detroit and rode on a track for the first time, which was terrifying but so much damn fun.
 
-<img src="https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/fancy-racehorse/images/fancy-racehorse/oslo.png" width="300"/> <img src="https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/fancy-racehorse/images/fancy-racehorse/seattle.png" width="300"/> 
-<img src="https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/fancy-racehorse/images/fancy-racehorse/velodrome.png" width="300"/> 
+<img src="https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/fancy-racehorse/images/fancy-racehorse/oslo.PNG" width="300"/> <img src="https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/fancy-racehorse/images/fancy-racehorse/seattle.png" width="300"/> 
+<img src="https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/fancy-racehorse/images/fancy-racehorse/velodrome.PNG" width="300"/> 
 ___
 
 ##Further Work
