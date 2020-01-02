@@ -12,7 +12,7 @@ In addition to tracking my progress throughout the year, I downloaded my Strava 
 More detailed and technical information on this process can be found [here](#methods).
 
 <figure class="video_container">
-<iframe width="1000" height="800" src="https://raw.githack.com/GWarrenn/fancy-racehorse/master/mapping/index.html" frameborder="0" allowfullscreen="true"></iframe>
+<iframe width="1000" height="600" src="https://raw.githack.com/GWarrenn/fancy-racehorse/master/mapping/index.html" frameborder="0" allowfullscreen="true"></iframe>
 </figure>
 
 ___
