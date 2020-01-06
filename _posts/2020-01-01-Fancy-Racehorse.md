@@ -25,7 +25,7 @@ In total, I spent <b>236 hours, 33 minutes and 11 seconds</b>, biking <b>3,322</
 
 One of the things that stands out the most to me in the map is the bright, solid, curvy line that is lit up in the Northwest part of DC, which some people may recognize as Rock Creek Park. This is by far my favorite place to ride in DC. The road, which is closed to cars on the weekend, is incredibly scenic, has some great climbs and descents, and was recently re-paved. The park is also right in the heart of DC meaning that it was easy to get to for a quick ride and that I'm not stranded in the middle of nowhere if I get a flat or start to feel miserable.  
 
-If you zoom in a bit on this part of the map you can see each individual line from every ride that contributes to the larger pattern, which paints a picture of just how many laps I took in Rock Creek Park over the course of the year. After all that I still never got sick of riding there.
+If you zoom in a bit on this part of the map you can see each individual line from every ride that contributes to the larger pattern, painting a picture of just how many laps I took in Rock Creek Park over the year.
 
 <img align="left" src="https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/master/images/fancy-racehorse/rock_creek_park_zoom.PNG">
 
