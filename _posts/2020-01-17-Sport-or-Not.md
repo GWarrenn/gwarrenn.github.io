@@ -5,31 +5,74 @@ title: Sport or Not!
 
 ![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/drafts/images/fruit_ranking/fruit_header.png)
 
-
 About The Survey
 --------------
 
-Following up in the rich tradition of creating surveys that throw a molotov cocktail into social situations, I opened another question to the world: Are these things sports?  
+Following up in the [rich tradition](https://gwarrenn.github.io/Fruit-Ranking/) of creating surveys that throw a Molotov cocktail into social situations, I presented another question to the world/my small network of people with opinions: Are these things sports?
 
-Respondents were presented with a list of 19 activities that could or not be considered a sport depending on who you ask. The activities ranged from Skiing to Frisbee Golf to Scrabble.
+Respondents were presented with a list of 19 activities that could or not be considered a sport depending on who you ask. The activities ranged from Skiing to Frisbee Golf to Scrabble. The survey also asked respondents how they define sports in an effort to help understand what makes a sport a sport.
 
-Overall Sports
+<details>
+<summary>See How Your Perceptions of Sports Align With the Field</summary>
+<br>
+<figure class="video_container">
+<iframe width="800" height="600" src="https://rawgit.com/mahkah/dc_stop_and_frisk/master/index_analysis.html" frameborder="0" allowfullscreen="true"></iframe>
+</figure>
+</details>
+
+Overall Perceptions of Sports
 --------------
 
-On average, the field is adamant that Rowing/Crew (which is ) is most defintely a sport -- even though it's basically just going for a canoe ride and yet Chess, a sport that requires skill and training and [tons of physical endurance](https://www.espn.com/espn/story/_/id/27593253/why-grandmasters-magnus-carlsen-fabiano-caruana-lose-weight-playing-chess) IS NOT SPORT WELL OKAY THEN FINE -- with nearly three quarters stating they feel strongly it's a sport. NASCAR is really the only sport than comes close to the only activity that is net even on the Sport/Not Sport divide, with 55% to 42%. 
+On average, the field is adamant that Rowing/Crew is the most of a "Sport" of all activities tested -- even though it's basically just going for a canoe ride with a dozen people and yet Chess, a sport that requires skill and training and [tons of physical endurance](https://www.espn.com/espn/story/_/id/27593253/why-grandmasters-magnus-carlsen-fabiano-caruana-lose-weight-playing-chess) <b>IS NOT SPORT WELL OKAY THEN FINE</b> -- with nearly three quarters stating they feel strongly it's a sport. NASCAR is really the only activity than comes close to being net even on the Sport/Not Sport divide, with 55% for to 42% against. 
 
-Correlations
+Most of the "indoor" or leisure activities (Crossfit, eSports, Foosball, Chess, and Scrabble) were solidly designated as "Not Sports," with the strongest intensity coming for Scrabble. Another item of note, approximately half the respondents had no idea what Pickleball is, including myself. If you want someone to blame, contact [Ben Winston](https://www.strategies360.com/team/ben-winston/) for an explanation or any general political research inquiries (#ad #promotion). 
+
+Relationships between Activities
 --------------
 
-The following chart shows the correlation, or similarity, between each of the activities tested - a score of 1 indicates that everyone picked exactly the same thing, while a score of -1 indicates the opposite. Some strong positive relationships can be found between the activities that were definitely selected as sports, such as Skiing, Rowing/Crew, and Cycling. However, the strongest negative relationships are found between Snowboarding and Scrabble.
+The following chart shows the correlations, or similarities, between each of the activities tested - a score of 1 indicates that everyone picked exactly the same thing, while a score of -1 indicates the opposite. Some strong positive relationships can be found between the activities that were definitely selected as sports, such as Skiing, Rowing/Crew, and Cycling. However, the strongest negative relationships are found between Snowboarding and Scrabble, meaning that if you thought Snowboarding was a sport, then you probably don't think Scrabble is a sport (and vice verse). 
 
-Ratings by Demographics
+Perceptions by Gender
 --------------
 
-Overall, women are more skeptical that the acitvities tested are actually sports. Views tend to align on the more commonly accepted sports, such as Cycling and Skiing. However things tend to break down among the more contentious activies, specifically NASCAR. Only 29% of women view NASCAR as a sport, compared to 65% of men. Bowling, Frisbee Golf, Cornhole, and eSports are also viewed differently by gender.
+Overall, women are more skeptical that the activities tested are actually sports; women tended to rate 52% of the activities as sports compared to 64% among men. Views tend to align on the more commonly accepted sports, such as Cycling and Skiing. However things tend to break down among the more contentious activities, specifically NASCAR. Only 29% of women view NASCAR as a sport, compared to 65% of men. Bowling, Frisbee Golf, Cornhole, and eSports are also viewed differently by gender.
 
-Before we look at other demographics tested, we should also talk about views towards sports in general by gender. The survey also asked sports watching behaviors and attitudes towards sports, which turned out to be influenced by gender. 
+Before we look at other demographics tested, we should also talk about views towards sports in general by gender. The survey also asked sports watching behaviors and favorability towards PE/Gym class, which turned out to be influenced by gender, so we need to examine the relationship before we talk about the other demographics by themselves.
 
-Views towards P.E./Gym class by gender are nearly a mirror image. Just under half of women who took the survey were strongly unfavorable towards P.E./Gym class when they were in school, compared to only 5.6% of men.
+Views towards PE/Gym class by gender are nearly a mirror image. Just under half of women who took the survey were strongly unfavorable towards P.E./Gym class when they were in school, compared to only 5.6% of men. Overall men were net favorable towards PE, while women were strongly net unfavorable towards PE. At first glance it might be a reflex to chalk this difference entirely up to gender. However, the survey also asked two questions that allowed respondents to state if they were avid/casual sports fans or not at all and how often they watched televised sports. These two variables were combined to create a "Sports Fan" variable (credit to Ben Winston & Kelly Higgins for their input in creating this). 
 
+When we include this Sports Fan variable in a binomial regression model that predicts favorability towards PE/Gym class, along with Gender, the Sports Fan variable is the stronger predictor of favorability. Gender is still highly predictive, but the correlation and regression coefficient is lower than Sports Fandom.
 
+<table style="text-align:center"><tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td><em>Dependent variable:</em></td></tr>
+	<tr><td></td><td colspan="1" style="border-bottom: 1px solid black"></td></tr>
+	<tr><td style="text-align:left"></td><td>Gym Class Favorability</td></tr>
+	<tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Gender (Men=1)</td><td>1.118<sup>***</sup></td></tr>
+	<tr><td style="text-align:left"></td><td>(0.430)</td></tr>
+	<tr><td style="text-align:left"></td><td></td></tr>
+	<tr><td style="text-align:left">Sports Fandom (Sports Fan=1)</td><td>1.401<sup>***</sup></td></tr>
+	<tr><td style="text-align:left"></td><td>(0.429)</td></tr>
+	<tr><td style="text-align:left"></td><td></td></tr>
+	<tr><td style="text-align:left">Constant</td><td>-1.346<sup>***</sup></td></tr>
+	<tr><td style="text-align:left"></td><td>(0.345)</td></tr>
+	<tr><td style="text-align:left"></td><td></td></tr>
+	<tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Observations</td><td>113</td></tr>
+	<tr><td style="text-align:left">Log Likelihood</td><td>-61.558</td></tr>
+	<tr><td style="text-align:left">Akaike Inf. Crit.</td><td>129.117</td></tr>
+	<tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"><em>Note:</em></td><td style="text-align:right"><sup>*</sup>p<0.1; <sup>**</sup>p<0.05; <sup>***</sup>p<0.01</td></tr>
+</table>
+
+With a regression coefficient of 1.15, men are <b>3 times more likely</b> to be favorable toward PE/Gym Class. However, Sports Fandom has a coefficient of 1.4 (meaning <b>4 times more likely</b> to be favorable towards PE/Gym Class). <b>So this means that women who are Sports Fans are more likely to be favorable towards Gym class than men who are not Sports Fans at all.</b>
+
+Perceptions by Race/Ethnicity
+--------------
+
+<i>Just a note on how race is reported herein: Because the overall N-size of the survey is only just over 100, I combined certain racial groups into "POC" as each individual POC racial group was less than 10. (POC N=24 & White N=89, with the gender portion skewing male and white portion skewing female.</i> 
+
+On average, POC respondents were less bullish on Rowing/Crew, Ultimate Frisbee, Snowboarding, and Skiing than White respondents, though they resoundingly still classified them as sports. Interesting differences are observed with NASCAR (which is most likely driven by the more male skewed POC sample), Frisbee Golf, and Chess. White and POC respondents are flipped on both NASCAR and Frisbee Golf, and only 12% of White respondents agreed that Chess is a sport, compared to a third POC respondents.
+
+What Defines a Sport?
+--------------
+
+In addition to classifying activities as sports, respondents were also asked to write what defines a sport in their opinion in an open-ended format. Overall, the most commonly used word (excluding and filler words) was 'physical' mentioned 52 times, followed by 'competition' and 'activity' mentioned 39 and 25 times, respectively. Reflecting the emphasis on the required physical nature of the sport, the most commonly used pair of words (or bigrams) were 'physical activity','physical exertion', and 'physical skill'. Given this, it makes sense just why our "indoor sports" and leisure sports failed to pass judgment as sports. 
+
+Naturally, the more cerebral or strategic activities, such as eSports, Chess, and Scrabble are more perceived as a sports among respondents who did not mention the word "physical" in their definition of a sport, though the activities were still resoundingly classified as not sports by both groups. Additionally, respondents who did not mention physical actually perceive NASCAR to be less of a sport than those who mentioned physical.
