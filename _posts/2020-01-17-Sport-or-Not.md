@@ -8,9 +8,9 @@ title: Sport or Not!
 About The Survey
 --------------
 
-Following up in the [rich tradition](https://gwarrenn.github.io/Fruit-Ranking/) of creating surveys that throw a Molotov cocktail into social situations, I presented another question to the world/my small network of people with opinions: <b>Are these things sports?</b>
+Following up in the [rich tradition](https://gwarrenn.github.io/Fruit-Ranking/) of creating surveys that throw a Molotov cocktail into any social situation, I presented another question to the world/my small network of people with opinions: <b>Are these things sports?</b>
 
-Respondents were presented with a list of 19 activities that could or not be considered a sport depending on who you ask. The activities ranged from Skiing to Frisbee Golf to Scrabble. The survey also asked respondents how they define sports in an effort to help understand what makes a sport a sport.
+While the ![sports literati](https://bleacherreport.com/articles/848465-settling-the-debates-is-it-a-sport-or-not-a-sport) sit in their ivory towers and get to decree whether or not certain things are sports or not, I give the power to the people to decide! Respondents were presented with a list of 19 activities that could or not be considered a sport depending on who you ask. The activities ranged from Skiing to Frisbee Golf to Scrabble. The survey also asked respondents how they define sports in an effort to help understand what makes a sport a sport.
 
 Miss out on the survey? Here's a [link to the survey](https://forms.gle/LGXMaLbPw3ahA2Ef6), which is still open, and you can help contribute to further work by [adding your opinion here!]9(https://docs.google.com/forms/d/e/1FAIpQLSeH8yw7-P18_G3hqGqvK7eMEtN20xg1rkkQBY89eAeJDGgrfw/viewform) 
 
@@ -27,9 +27,9 @@ Overall Perceptions of Sports
 
 On average, the field is adamant that Rowing/Crew is the most of a "Sport" of all activities tested -- even though it's basically just going for a canoe ride with a dozen people and yet Chess, a sport that requires skill and training and [tons of physical endurance](https://www.espn.com/espn/story/_/id/27593253/why-grandmasters-magnus-carlsen-fabiano-caruana-lose-weight-playing-chess) <b>IS NOT SPORT WELL OKAY THEN FINE</b> -- with nearly three quarters stating they feel strongly it's a sport. NASCAR is really the only activity than comes close to being net even on the Sport/Not Sport divide, with 55% for to 42% against. 
 
-Most of the "indoor" or leisure activities (Crossfit, eSports, Foosball, Chess, and Scrabble) were solidly designated as "Not Sports," with the strongest intensity coming for Scrabble. Another item of note, approximately half the respondents had no idea what Pickleball is, including myself. If you want someone to blame, contact [Ben Winston](https://www.strategies360.com/team/ben-winston/) for an explanation or any general political research inquiries (#ad #promotion). 
-
 ![](https://raw.githubusercontent.com/GWarrenn/this-and-that/drafting/sport-or-not!/images/2.0%20Ratings%20by%20Sport.png)
+
+Most of the "indoor" or leisure activities (Crossfit, eSports, Foosball, Chess, and Scrabble) were solidly designated as "Not Sports," with the strongest intensity coming for Scrabble. Another item of note, approximately half the respondents had no idea what Pickleball is, including myself. If you want someone to blame, contact [Ben Winston](https://www.strategies360.com/team/ben-winston/) for an explanation or any general political research inquiries (#ad #promotion). 
 
 Relationships between Activities
 --------------
@@ -47,7 +47,7 @@ Overall, women are more skeptical that the activities tested are actually sports
 
 Before we look at other demographics tested, we should also talk about views towards sports in general by gender. The survey also asked sports watching behaviors and favorability towards PE/Gym class, which turned out to be influenced by gender, so we need to examine the relationship before we talk about the other demographics by themselves.
 
-Views towards PE/Gym class by gender are nearly a mirror image. Just under half of women who took the survey were strongly unfavorable towards P.E./Gym class when they were in school, compared to only 5.6% of men. Overall men were net favorable towards PE, while women were strongly net unfavorable towards PE. At first glance it might be a reflex to chalk this difference entirely up to gender. However, the survey also asked two questions that allowed respondents to state if they were avid/casual sports fans or not at all and how often they watched televised sports. These two variables were combined to create a "Sports Fan" variable (credit to Ben Winston & Kelly Higgins for their input in creating this). 
+Views towards PE/Gym class by gender are nearly a mirror image. Just under half of women who took the survey were strongly unfavorable towards P.E./Gym class when they were in school, compared to only 5.6% of men. Overall men were net favorable towards PE, while women were strongly net unfavorable towards PE. At first glance it might be a reflex to chalk this difference entirely up to gender. However, the survey also asked two questions that allowed respondents to state if they were avid/casual sports fans or not at all and how often they watched televised sports. These two variables were combined to create a "Sports Fan" variable[¹](#sports-fan-def)(credit to Ben Winston & Kelly Higgins for their input in creating this). 
 
 ![](https://raw.githubusercontent.com/GWarrenn/this-and-that/drafting/sport-or-not!/images/Sports%20%26%20Gender.png)
 
@@ -137,3 +137,7 @@ Conclusion
 If I've done my job (I should really get back to work) then you will have found something appallingly wrong or antithetical to your world view here -- video games are sports, I don't care what 77% of you think!
 
 Thank you to everyone who took this survey and/or shared it with others. I sincerely appreciate you all taking the time to take these surveys and read (\*skim) these posts. I look forward to arguing with everyone about this in person.
+
+Footnotes
+--------------
+^[1.](#sports-fan-def)"Sports Fans" are defined as respondents who self-identify as avid or casual mainstream sports fans who also claim to watch televised mainstream sports at least once a week. This segment came out to be about half of the sample.
