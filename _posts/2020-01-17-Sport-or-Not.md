@@ -12,11 +12,13 @@ Following up in the [rich tradition](https://gwarrenn.github.io/Fruit-Ranking/) 
 
 Respondents were presented with a list of 19 activities that could or not be considered a sport depending on who you ask. The activities ranged from Skiing to Frisbee Golf to Scrabble. The survey also asked respondents how they define sports in an effort to help understand what makes a sport a sport.
 
+Miss out on the survey? Here's a [link to the survey](https://forms.gle/LGXMaLbPw3ahA2Ef6), which is still open, and you can help contribute to further work by [adding your opinion here!]9(https://docs.google.com/forms/d/e/1FAIpQLSeH8yw7-P18_G3hqGqvK7eMEtN20xg1rkkQBY89eAeJDGgrfw/viewform) 
+
 <details>
 <summary>See How Your Perceptions of Sports Align With the Field</summary>
 <br>
 <figure class="video_container">
-<iframe width="800" height="600" src="https://rawgit.com/mahkah/dc_stop_and_frisk/master/index_analysis.html" frameborder="0" allowfullscreen="true"></iframe>
+<iframe width="800" height="600" src="https://raw.githack.com/GWarrenn/this-and-that/drafting/sport-or-not!/scripts/comparison/index.html" frameborder="0" allowfullscreen="true"></iframe>
 </figure>
 </details>
 
@@ -74,13 +76,13 @@ With a regression coefficient of 1.15, men are <b>3 times more likely</b> than w
 Perceptions by Race/Ethnicity
 --------------
 
-<i>Just a note on how race is reported herein: Because the overall N-size of the survey is only just over 100, I combined certain racial groups into "POC" as each individual POC racial group was less than 10. (POC N=24 & White N=89, with the gender portion skewing male and white portion skewing female.</i> 
+<i>Just a note on how race is reported herein: Because the overall N-size of the survey is only just over 100, I combined certain racial groups into "POC" as each individual POC racial group was less than 10. (POC N=24 & White N=89, with the POC portion skewing male and white portion skewing female.</i> 
 
 On average, POC respondents were less bullish on Rowing/Crew, Ultimate Frisbee, Snowboarding, and Skiing than White respondents, though they resoundingly still classified them as sports. Interesting differences are observed with NASCAR (which is most likely driven by the more male skewed POC sample), Frisbee Golf, and Chess. White and POC respondents are flipped on both NASCAR and Frisbee Golf, and only 12% of White respondents agreed that Chess is a sport (with 65% stating it is strongly not a sport), compared to a third POC respondents.
 
 ![](https://raw.githubusercontent.com/GWarrenn/this-and-that/drafting/sport-or-not!/images/4.0%20Sport%20Ratings%20by%20Race.png)
 
-Perceptions by Race/Ethnicity
+Perceptions by Age
 --------------
 
 Intensity towards the belief that cycling is strongly a sport seems to increase by age; 92% of respondents over the age of 40 felt strongly that cycling is a sport. Similarly, older respondents were much more united around sailing and Pickleball being sports and eSports not being sports, with more higher intensity than younger respondents. 
@@ -109,7 +111,6 @@ ___
 
 ___
 
-
 What Defines a Sport?
 --------------
 
@@ -120,3 +121,19 @@ In addition to classifying activities as sports, respondents were also asked to 
 Naturally, the more cerebral or strategic activities, such as eSports, Chess, and Scrabble are more perceived moreso as a sports among respondents who did not mention the word "physical" in their definition of a sport, though the activities were still resoundingly classified as not sports by both groups. Respondents who did not mention physical actually perceive NASCAR to be less of a sport than those who mentioned physical. Additionally, the "Non-Physical" camp is much more intense in their belief that sailing is strongly considered a sport.
 
 ![](https://raw.githubusercontent.com/GWarrenn/this-and-that/drafting/sport-or-not!/images/4.0%20Sport%20Ratings%20by%20Mentioned%20Physical.png)
+
+Further Work
+--------------
+
+If the 113 people are the ones to judge, there is a clear need for a certain amount og physicality or physical exertion, however the same group also determined that Crossfit is very much not a sport. These same people also described a certain amount of skill or strategy required, but less so that the physical element. Is there a hard or definable threshold of perceived physical exertion that makes something a sport along with a combination of a certain amount of skill? Can that nexus of physicality and skill be quantified and modelled or is the definition of a sport something that is arbitrary and hypocritical?
+
+<b>![YOU DECIDE](https://docs.google.com/forms/d/e/1FAIpQLSeH8yw7-P18_G3hqGqvK7eMEtN20xg1rkkQBY89eAeJDGgrfw/viewform)</b>
+
+Take the survey linked above and help us try to build a definitive taxonomy of sports.
+
+Conclusion
+--------------
+
+If I've done my job (I should really get back to work) then you will have found something appallingly wrong or antithetical to your world view here -- video games are sports, I don't care what 77% of you think!
+
+Thank you to everyone who took this survey and/or shared it with others. I sincerely appreciate you all taking the time to take these surveys and read (\*skim) these posts. I look forward to arguing with everyone about this in person.
