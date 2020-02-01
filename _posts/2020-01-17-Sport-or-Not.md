@@ -3,16 +3,16 @@ layout: post
 title: Sport or Not!
 ---
 
-![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/drafts/images/fruit_ranking/fruit_header.png)
+![](https://raw.githubusercontent.com/GWarrenn/this-and-that/drafting/sport-or-not!/images/Sports%20Header.png)
 
 About The Survey
 --------------
 
 Following up in the [rich tradition](https://gwarrenn.github.io/Fruit-Ranking/) of creating surveys that throw a Molotov cocktail into any social situation, I presented another question to the world/my small network of people with opinions: <b>Are these things sports?</b>
 
-While the ![sports literati](https://bleacherreport.com/articles/848465-settling-the-debates-is-it-a-sport-or-not-a-sport) sit in their ivory towers and get to decree whether or not certain things are sports or not, I give the power to the people to decide! Respondents were presented with a list of 19 activities that are borderline sports and could or not be considered a sport depending on who you ask. The activities ranged from Skiing to Frisbee Golf to Scrabble (In order to avoid bombarding respondents with a battery of 50 items, I excluded things that are considered mainstreams sports). The survey also asked respondents how they define sports in an effort to help understand what makes a sport a sport.
+While the [sports literati](https://bleacherreport.com/articles/848465-settling-the-debates-is-it-a-sport-or-not-a-sport) sit in their ivory towers and get to decree whether or not certain things are sports or not, I give the power to the people to decide! Respondents were presented with a list of 19 activities that are borderline sports and could or not be considered a sport depending on who you ask. The activities ranged from Skiing to Frisbee Golf to Scrabble (In order to avoid bombarding respondents with a battery of 50 items, I excluded things that are considered mainstreams sports). The survey also asked respondents how they define sports in an effort to help understand what makes a sport a sport.
 
-Miss out on the survey? Here's a [link to the survey](https://forms.gle/LGXMaLbPw3ahA2Ef6), which is still open, and you can help contribute to further work by [adding your opinion here!]9(https://docs.google.com/forms/d/e/1FAIpQLSeH8yw7-P18_G3hqGqvK7eMEtN20xg1rkkQBY89eAeJDGgrfw/viewform) 
+Miss out on the survey? Here's a [link to the survey](https://forms.gle/LGXMaLbPw3ahA2Ef6), which is still open, and you can help contribute to further work by [adding your opinion here!](https://docs.google.com/forms/d/e/1FAIpQLSeH8yw7-P18_G3hqGqvK7eMEtN20xg1rkkQBY89eAeJDGgrfw/viewform) 
 
 <details>
 <summary>See How Your Perceptions of Sports Align With the Field</summary>
@@ -127,7 +127,7 @@ Further Work
 
 If the 113 people are the ones to judge, there is a clear need for a certain amount of physicality or physical exertion, however the same group also determined that Crossfit is very much not a sport. These same people also described a certain amount of skill or strategy required, but less so that the physical element. Is there a hard or definable threshold of perceived physical exertion that makes something a sport along with a combination of a certain amount of skill and/or competition? Can that nexus of physicality, skill and competition be quantified and modeled or is the definition of a sport something that is arbitrary and hypocritical?
 
-<b>![YOU DECIDE](https://docs.google.com/forms/d/e/1FAIpQLSeH8yw7-P18_G3hqGqvK7eMEtN20xg1rkkQBY89eAeJDGgrfw/viewform)</b>
+<b>[YOU DECIDE](https://docs.google.com/forms/d/e/1FAIpQLSeH8yw7-P18_G3hqGqvK7eMEtN20xg1rkkQBY89eAeJDGgrfw/viewform)</b>
 
 Take the survey linked above and help us try to build a definitive taxonomy of sports. 
 
