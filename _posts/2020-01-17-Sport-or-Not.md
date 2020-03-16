@@ -87,7 +87,7 @@ On average, POC respondents were less bullish on Rowing/Crew, Ultimate Frisbee, 
 Perceptions by Age
 --------------
 
-Intensity towards the belief that cycling is strongly a sport seems to increase by age; 92% of respondents over the age of 40 felt strongly that cycling is a sport. Similarly, older respondents were much more united around sailing and Pickleball being sports and eSports not being sports, with more higher intensity than younger respondents. 
+Intensity towards the belief that cycling is strongly a sport seems to increase by age; 92% of respondents over the age of 40 felt strongly that cycling is a sport, compared to 64% of respondents aged 18-29. Similarly, older respondents were much more united around sailing and pickleball being sports and eSports not being a sport, with higher intensity than younger respondents. 
 
 ![](https://raw.githubusercontent.com/GWarrenn/this-and-that/master/sport-or-not!/images/4.0%20Sport%20Ratings%20by%20Age.png)
 
