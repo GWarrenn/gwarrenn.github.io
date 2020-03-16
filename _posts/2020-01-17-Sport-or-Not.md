@@ -73,7 +73,7 @@ When we include this Sports Fan variable in a binomial regression model that pre
 	</table>
 </center>
 
-With a regression coefficient of 1.15, men are <b>3 times more likely</b> than women to be favorable toward PE/Gym Class. However, Sports Fandom has a coefficient of 1.4 (meaning <b>4 times more likely</b> than non-Sports Fans to be favorable towards PE/Gym Class). <b>So this means that women who are Sports Fans are more likely to be favorable towards Gym class than men who are not Sports Fans at all.</b>
+With a regression coefficient of 1.118, men are <b>3 times more likely</b> than women to be favorable toward PE/Gym Class. However, Sports Fandom has a coefficient of 1.4 (meaning <b>4 times more likely</b> than non-Sports Fans to be favorable towards PE/Gym Class). <b>So this means that women who are Sports Fans are more likely to be favorable towards Gym class than men who are not Sports Fans at all.</b>
 
 Perceptions by Race/Ethnicity
 --------------
