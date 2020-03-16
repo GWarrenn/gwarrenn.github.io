@@ -18,7 +18,7 @@ Miss out on the survey? Here's a [link to the original survey](https://forms.gle
 <summary>Before you Read the Findings: See How Your Perceptions of Sports Align With the Field</summary>
 <br>
 <figure class="video_container">
-<iframe width="800" height="600" src="https://raw.githack.com/GWarrenn/this-and-that/master/sport-or-not!/scripts/comparison/index.html" frameborder="0" allowfullscreen="true"></iframe>
+<iframe width="800" height="800" src="https://raw.githack.com/GWarrenn/this-and-that/master/sport-or-not!/scripts/comparison/index.html" frameborder="0" allowfullscreen="true"></iframe>
 </figure>
 </details>
 
@@ -41,7 +41,7 @@ The following chart shows the correlations, or similarities, between each of the
 Perceptions by Gender
 --------------
 
-Overall, women are more skeptical that the activities tested are actually sports. Women tended to rate 52% of the activities as sports compared to 64% among men. Views tend to align on the more commonly accepted sports, such as Cycling and Skiing. However things tend to break down among the more contentious activities, specifically NASCAR. Only 29% of women view NASCAR as a sport, compared to 65% of men. Bowling, Frisbee Golf, Cornhole, and eSports are also viewed differently by gender. Controlling for race, income, sports fandom (more on that later) and age, men are are 3.38 times more likely than women to view NASCAR as a sport -- this is the largest coefficient observed in this dataset, second only to eSports at 2.65 times more likely. ![(Full regression results here)](https://raw.githubusercontent.com/GWarrenn/this-and-that/master/sport-or-not!/images/Regression%20Coefs.png)
+Overall, women are more skeptical that the activities tested are actually sports. Women tended to rate 52% of the activities as sports compared to 64% among men. Views tend to align on the more commonly accepted sports, such as Cycling and Skiing. However things tend to break down among the more contentious activities, specifically NASCAR. Only 29% of women view NASCAR as a sport, compared to 65% of men. Bowling, Frisbee Golf, Cornhole, and eSports are also viewed differently by gender. Controlling for race, income, sports fandom (more on that later) and age, men are are 3.38 times more likely than women to view NASCAR as a sport -- this is the largest coefficient observed in this dataset, second only to eSports at 2.65 times more likely. [Full regression results here](https://raw.githubusercontent.com/GWarrenn/this-and-that/master/sport-or-not!/images/Regression%20Coefs.png)
     
 ![](https://raw.githubusercontent.com/GWarrenn/this-and-that/master/sport-or-not!/images/4.0%20Sport%20Ratings%20by%20Gender.png)
 
@@ -53,23 +53,25 @@ Views towards PE/Gym class by gender are nearly a mirror image. Just under half 
 
 When we include this Sports Fan variable in a binomial regression model that predicts favorability towards PE/Gym class, along with Gender, being a Sports Fan is the stronger predictor of favorability. Gender is still highly predictive, but the correlation and regression coefficient is lower than Sports Fandom.
 
-<table style="text-align:center"><tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td><em>Dependent variable:</em></td></tr>
-	<tr><td></td><td colspan="1" style="border-bottom: 1px solid black"></td></tr>
-	<tr><td style="text-align:left"></td><td>Gym Class Favorability</td></tr>
-	<tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Gender (Men=1)</td><td>1.118<sup>***</sup></td></tr>
-	<tr><td style="text-align:left"></td><td>(0.430)</td></tr>
-	<tr><td style="text-align:left"></td><td></td></tr>
-	<tr><td style="text-align:left">Sports Fandom (Sports Fan=1)</td><td>1.401<sup>***</sup></td></tr>
-	<tr><td style="text-align:left"></td><td>(0.429)</td></tr>
-	<tr><td style="text-align:left"></td><td></td></tr>
-	<tr><td style="text-align:left">Constant</td><td>-1.346<sup>***</sup></td></tr>
-	<tr><td style="text-align:left"></td><td>(0.345)</td></tr>
-	<tr><td style="text-align:left"></td><td></td></tr>
-	<tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Observations</td><td>113</td></tr>
-	<tr><td style="text-align:left">Log Likelihood</td><td>-61.558</td></tr>
-	<tr><td style="text-align:left">Akaike Inf. Crit.</td><td>129.117</td></tr>
-	<tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"><em>Note:</em></td><td style="text-align:right"><sup>*</sup>p<0.1; <sup>**</sup>p<0.05; <sup>***</sup>p<0.01</td></tr>
-</table>
+<center>
+	<table style="text-align:center"><tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td><em>Dependent variable:</em></td></tr>
+		<tr><td></td><td colspan="1" style="border-bottom: 1px solid black"></td></tr>
+		<tr><td style="text-align:left"></td><td>Gym Class Favorability</td></tr>
+		<tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Gender (Men=1)</td><td>1.118<sup>***</sup></td></tr>
+		<tr><td style="text-align:left"></td><td>(0.430)</td></tr>
+		<tr><td style="text-align:left"></td><td></td></tr>
+		<tr><td style="text-align:left">Sports Fandom (Sports Fan=1)</td><td>1.401<sup>***</sup></td></tr>
+		<tr><td style="text-align:left"></td><td>(0.429)</td></tr>
+		<tr><td style="text-align:left"></td><td></td></tr>
+		<tr><td style="text-align:left">Constant</td><td>-1.346<sup>***</sup></td></tr>
+		<tr><td style="text-align:left"></td><td>(0.345)</td></tr>
+		<tr><td style="text-align:left"></td><td></td></tr>
+		<tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Observations</td><td>113</td></tr>
+		<tr><td style="text-align:left">Log Likelihood</td><td>-61.558</td></tr>
+		<tr><td style="text-align:left">Akaike Inf. Crit.</td><td>129.117</td></tr>
+		<tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"><em>Note:</em></td><td style="text-align:right"><sup>*</sup>p<0.1; <sup>**</sup>p<0.05; <sup>***</sup>p<0.01</td></tr>
+	</table>
+</center>
 
 With a regression coefficient of 1.15, men are <b>3 times more likely</b> than women to be favorable toward PE/Gym Class. However, Sports Fandom has a coefficient of 1.4 (meaning <b>4 times more likely</b> than non-Sports Fans to be favorable towards PE/Gym Class). <b>So this means that women who are Sports Fans are more likely to be favorable towards Gym class than men who are not Sports Fans at all.</b>
 
