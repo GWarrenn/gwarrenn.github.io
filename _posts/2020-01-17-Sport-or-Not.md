@@ -131,7 +131,7 @@ If the 113 people are the ones to judge, there is a clear need for a certain amo
 
 <b>[YOU DECIDE](https://docs.google.com/forms/d/e/1FAIpQLSeH8yw7-P18_G3hqGqvK7eMEtN20xg1rkkQBY89eAeJDGgrfw/viewform)</b>
 
-Take the survey linked above and help us try to build a definitive taxonomy of sports. 
+<i>I know, I know. I'm asking you to do yet <b>another</b> survey, but what else do you expect from me at this point?</i>
 
 Conclusion
 --------------
