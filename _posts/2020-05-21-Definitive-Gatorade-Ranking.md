@@ -68,7 +68,7 @@ Of all of the demographics tested, age proved to demonstrate the greatest gulfs 
 
 Further illustrating the significant role that age plays in attitudes towards Gatorade preference, I ran a series of logistic regression models to predict positive attitudes towards each flavor tested. Across all of the flavors where we saw a generational divide, age was the only significant predictor of preference when controlling for race, gender, income and favorability towards Gatorade. Also of note, men were more likely to be favorable towards Grape and Lemon Lime than women.
 
-![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/gatorade-ranking/images/gatorade_ranking/5_Regression Coefs.png)
+![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/gatorade-ranking/images/gatorade_ranking/5_Regression%20Coefs.png)
 
 To bring this all together (and because I could), I ran a Principal Component Analysis to further illustrate the grouping of the various flavors and attitudes by demographics. This helps map out clusters of similar flavors: we can see a grouping of our more popular flavors, including the Blues and Lemon-Lime. However, Fruit Punch, while being a popular choice is off in it's own segment with our 40+ survey respondents. 
 
@@ -85,7 +85,7 @@ However, there are some out there who don't use this technique -- despite the fa
 
 Overall, our survey respondents overwhelmingly report that they refer to a specific Gatorade by the color, not the flavor -- with 85% against 15%. This pattern (mostly) holds true across all demographics, with the majority reporting that they refer to the color. However, nearly a third of our (admittedly, very small N-size) Conservative/Libertarian respondents use the flavor as a descriptor. 
 
-![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/gatorade-ranking/images/gatorade_ranking/6_Flavor or Color -- Demos.png)
+![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/gatorade-ranking/images/gatorade_ranking/6_Flavor%20or%20Color%20--%20Demos.png)
 
 Of course, as with all things in this survey, age is yet again the only significant predictor on this topic. When controlling for age, Gatorade favorability, gender, ideology, income, and race, younger respondents are more likely to refer to Gatorade by the color (and the inverse is true for older respondents).
 
