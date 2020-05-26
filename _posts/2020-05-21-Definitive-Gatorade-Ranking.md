@@ -123,7 +123,7 @@ Survey Demographics
 <html>
 <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
-</head>
+<head>
 <body>
 <div style="margin: 0 auto; display: table; margin-top: 1em;">
 <table class="gmisc_table" style="border-collapse: collapse; margin-top: 1em; margin-bottom: 1em;" id="">
