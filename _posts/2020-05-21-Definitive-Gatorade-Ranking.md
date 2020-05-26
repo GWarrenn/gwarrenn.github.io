@@ -10,7 +10,7 @@ Key Findings
 
 * Overall, [the most popular Gatorade flavors tested are all blue-ish](#finding-1): Icy Charge, Cool Blue, and Arctic Blitz topped the charts of public opinion.
 
-* However, [preferences toward Gatorade flavors are heavily guided by age](#finding-2). The preference for the blue-ish options is heavily driven by our younger respondents. Respondents over the age of 40 prefer Fruit Punch and Orange -- some of the more classic flavors -- to the bluish portion of the Gatorade spectrum.
+* However, [preferences toward Gatorade flavors are heavily driven by age](#finding-2). The preference for the blue-ish options is heavily driven by our younger respondents. Respondents over the age of 40 prefer Fruit Punch and Orange -- some of the more classic flavors -- to the bluish portion of the Gatorade spectrum.
 
 * [Familiarity is positively correlated with preference](#finding-3). The Gatorade flavors that are more well known are more likely to be favorably rated on average.
 
