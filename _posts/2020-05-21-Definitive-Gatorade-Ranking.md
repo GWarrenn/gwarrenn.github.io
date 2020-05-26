@@ -28,7 +28,7 @@ Side note: there are about a billion different variants of Gatorade out there on
 Definitive Gatorade Ranking
 --------------
 <a name="finding-1"></a>
-Overall, the three blue Gatorades top the charts of public opinion, with Icy Charge from the Frost series narrowly leading Cool Blue an Arctic Blitz. The two more classic offerings, Lemon Lime and Fruit Punch, come in at fourth and fifth place. Lime Cucumber received the highest amount of negative sentiment, with 27% of respondents who reported knowing/trying the flavor rating it as F-tier. At the very bottom in the dumpster of public opinion, Fierce Green Apple sits as both the most unknown and most hated of flavors. 
+Overall, the three blue Gatorades top the charts of public opinion, with Icy Charge from the Frost series narrowly leading Cool Blue and Arctic Blitz. The two more classic offerings, Lemon Lime and Fruit Punch, come in at fourth and fifth place. Lime Cucumber received the highest amount of negative sentiment, with 27% of respondents who reported knowing/trying the flavor rating it as F-tier. At the very bottom in the dumpster of public opinion, Fierce Green Apple sits as both the most unknown and most hated of flavors. 
 
 Funnily enough, attitudes towards Orange Gatorade nearly matches my household consensus; half of respondents ranked Orange as A/B-tier, while the other half ranked it in the C/D/F-tiers. 
 
