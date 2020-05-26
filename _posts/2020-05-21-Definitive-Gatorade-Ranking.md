@@ -64,7 +64,7 @@ As always, topline numbers are great, but what we really want to see is how the 
 
 ### Opinions by Gender
 
-On average, men rated all of the colors slightly higher than women and non-binary respondents. Generally, attitudes across the gender spectrum tend to follow the same overall pattern, though with a varying degrees of intensity. However, there are some interesting gaps in opinion by gender. Men tend to be more favorable towards Grape than women and non-binary respondents, while women are rated Strawberry Lemonade higher than their counterparts. Non-binary respondents show the strongest support for Lime Cucumber, though I think this may be driven by the respondent who identifies as "limon pepino" -- thanks for that by the way. 
+On average, men rated all of the colors slightly higher than women and non-binary respondents. Generally, attitudes across the gender spectrum tend to follow the same overall pattern, though with a varying degrees of intensity. However, there are some interesting gaps in opinion by gender. Men tend to be more favorable towards Grape than women and non-binary respondents, while women rated Strawberry Lemonade higher than their counterparts. Non-binary respondents show the strongest support for Lime Cucumber, though I think this may be driven by the respondent who identifies as "limon pepino" -- thanks for that by the way. 
 
 ![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/gatorade-ranking/images/gatorade_ranking/3_1_demo_gender_recode_plot.png)
 
