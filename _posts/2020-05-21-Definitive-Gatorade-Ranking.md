@@ -3,6 +3,17 @@ layout: post
 title: Definitive Gatorade Ranking
 ---
 
+Key Findings
+--------------
+
+* Overall, [the most popular Gatorade flavors tested are all blue-ish](#finding-1): Icy Charge, Cool Blue, and Arctic Blitz topped the charts of public opinion.
+
+* However, [preferences toward Gatorade flavors are heavily guided by age](#finding-2). The preference for the blue-ish options is heavily driven by our younger respondents. Respondents over the age of 40 prefer Fruit Punch and Orange -- some of the more classic flavors -- to the bluish portion of the Gatorade spectrum.
+
+* [Familiarity is positively correlated with preference](#finding-3). The Gatorade flavors that are more well known are more likely to be favorably rated on average.
+
+* [Color is the overwhelming choice in how to refer to specific Gatorade types rather than flavor](#finding-4). While Conservatives/Libertarians refer to Gatorade by flavor name, once again age is the main predictor of attitudes. Younger respondents (18-29) are more likely to refer to the color than older respondents.    
+
 About The Survey
 --------------
 
@@ -16,7 +27,7 @@ Side note: there are about a billion different variants of Gatorade out there on
 
 Definitive Gatorade Ranking
 --------------
-
+<a name="finding-1"></a>
 Overall, the three blue Gatorades top the charts of public opinion, with Icy Charge from the Frost series narrowly leading Cool Blue an Arctic Blitz. The two more classic offerings, Lemon Lime and Fruit Punch, come in at fourth and fifth place. Lime Cucumber received the highest amount of negative sentiment, with 27% of respondents who reported knowing/trying the flavor rating it as F-tier. At the very bottom in the dumpster of public opinion, Fierce Green Apple sits as both the most unknown and most hated of flavors. 
 
 Funnily enough, attitudes towards Orange Gatorade nearly matches my household consensus; half of respondents ranked Orange as A/B-tier, while the other half ranked it in the C/D/F-tiers. 
@@ -29,7 +40,10 @@ Similar to the Fruit Survey, I created a Gatorade GPA, which converts the grade 
 
 Even when we remove the "Never tried" responses, the more rare offerings, such as Green Apple, Lime Cucumber, and Strawberry Watermelon, still score the lowest. However, Strawberry Lemonade stands out as one of the underappreciated gems; a third of respondents had never tried it, but those who have tried it tended to rate it higher than average. 
 
-Additionally, both of my personal favorites -- Fierce Grape and Orange -- are in the Square of Death, with higher than average familiarity and lower than average ranking, meaning that most people know them and they hate them. If you need to reach me, I'm going to be in a dark room coping with the fact that I have poor taste in Gatorade.
+<a name="finding-3"></a>
+Interestingly, there is a relatively positive linear relationship between familiarity and favorability towards various flavors. On average, a one percent unit increase in familiarity leads to a .16 increase in Gatorade GPA with an R-squared of .37). This means that the more people are familiar with a flavor, the more likely they are to rate it favorably.
+
+Additionally, both of my personal favorites -- Fierce Grape and Orange -- are outliers to this linear model, sitting in the Square of Death, with higher than average familiarity and lower than average ranking, meaning that most people know them and they hate them. If you need to reach me, I'm going to be in a dark room coping with the fact that I have poor taste in Gatorade.
 
 ![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/gatorade-ranking/images/gatorade_ranking/1_1_name_recognition_plot.png)
 
@@ -66,6 +80,7 @@ Our (very small) group of Conservative/Libertarian respondents are the most favo
 
 ### Opinions by Age
 
+<a name="finding-2"></a>
 Of all of the demographics tested, age provided the greatest differences in our sample. Survey respondents over the age of 40 viewed the more "traditional" flavors, such as Fruit Punch and Orange most favorably and much more favorably than younger respondents, and showed strong distaste for Lime Cucumber (remember the negative correlation between Fruit Punch and Lime Cucumber from before?). On the other hand, the respondents in the youngest age bracket (18-29) are much more favorable to "the blues" -- Icy Charge, Electric Blue and Arctic Blitz.
 
 ![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/gatorade-ranking/images/gatorade_ranking/3_2_demo_age_recode_plot.png)
@@ -83,6 +98,7 @@ Lime Cucumber, unknown and unloved to most, is off in its own part of the graph 
 Flavor or Color: How do you refer to Gatorade?
 --------------
 
+<a name="finding-4"></a>
 As you've probably noticed, I've been referring to each of the Gatorade types interchangeably as both flavors and colors. I do this mostly because there are four or five "blues" and a few yellows, which would make this analysis a little ambiguous and hard to follow. However, in general, if someone is going to the store asks if I want anything, I won't say "get me some of that Riptide Rush." Instead, I'll just say "purple," knowing full well that there are many options but I'll generally be happy with anything in that part of the color spectrum. 
 
 However, there are some out there who don't use this technique -- despite the fact that it's [pretty well established](https://www.google.com/search?q=calling+a+gatorade+by+its+flavor+meme&safe=off&rlz=1C1GCEV_en&sxsrf=ALeKk02Q_dlfDYw4VApkam3RTJJ7ydD4Qw:1590095261870&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjljvi57sXpAhWzknIEHdHrAjMQ_AUoAXoECAsQAw&biw=1280&bih=610) that you can't trust people who refer to Gatorade by the flavor -- so I decided to include this as a demographic question.
