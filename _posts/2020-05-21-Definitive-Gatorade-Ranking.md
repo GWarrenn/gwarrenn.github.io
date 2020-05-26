@@ -6,7 +6,7 @@ title: Definitive Gatorade Ranking
 About The Survey
 --------------
 
-Like many people living in quarantine during the current pandemic, I've found myself engaging in deep, heartfelt conversations with those who are forced to live with me. One such ~~argument~~ conversation started after one of my roommates noticed a Gatorade in the room and thought: "Yes, this is the thing that we will talk about now." Now, I consider myself a Gatorade connoisseur and thought that I had a pretty refined taste. However, as we started listing out different types of Gatorade and started ranking them -- [like we did with fruit]((https://gwarrenn.github.io/Fruit-Ranking/)) -- I quickly learned that **some** of my roommates think that Orange Gatorade is trash, while the other half (the enlightened half) think that Orange Gatorade is good. This news was a revelation: _how could someone not agree with me on Gatorade?_
+Like many people living in quarantine during the current pandemic, I've found myself engaging in deep, heartfelt conversations with those who are forced to live with me. One such ~~argument~~ conversation started after one of my roommates noticed a Gatorade in the room and thought: "Yes, this is the thing that we will talk about now." Now, I consider myself a Gatorade connoisseur and thought that I had a pretty refined taste. However, as we started listing out different types of Gatorade and started ranking them -- [like we did with fruit](https://gwarrenn.github.io/Fruit-Ranking/) -- I quickly learned that **some** of my roommates think that Orange Gatorade is trash, while the other half (the enlightened half) think that Orange Gatorade is good. This news was a revelation: _how could someone not agree with me on Gatorade?_
 
 To help answer this question, I turned to the only tool at my disposal: a survey of a non-random sample of people that is nowhere near representative of the general public. So, to the Gatorade marketing team reading this, take the findings with a grain of salt, but also maybe throw some Gatorade swag my way? For a full breakdown of the survey demographics, see the [table in the Appendix](#footnote-demo-table)
 
@@ -48,7 +48,7 @@ As always, topline numbers are great, but what we really want to see is how the 
 
 ### Opinions by Gender
 
-On average, men rated all of the colors slightly higher than women and non-binary respondents. Generally, attitudes across the gender spectrum tend to follow the same overall pattern, though with a varying degrees of intensity. However, interesting differences in taste preference can be found with Grape/Purple and Strawberry Lemonade.
+On average, men rated all of the colors slightly higher than women and non-binary respondents. Generally, attitudes across the gender spectrum tend to follow the same overall pattern, though with a varying degrees of intensity. However, there are some interesting gaps in opinion by gender. Men tend to be more favorable towards Grape than women and non-binary respondents, while women are rated Strawberry Lemonade higher than their counterparts. Non-binary respondents show the strongest support for Lime Cucumber, though I think this may be driven by the respondent who identifies as "limon pepino" -- thanks for that by the way. 
 
 ![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/gatorade-ranking/images/gatorade_ranking/3_1_demo_gender_recode_plot.png)
 
