@@ -3,6 +3,8 @@ layout: post
 title: Definitive Gatorade Ranking
 ---
 
+![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/gatorade-ranking/images/gatorade_ranking/header.png)
+
 Key Findings
 --------------
 
