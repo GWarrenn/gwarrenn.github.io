@@ -111,10 +111,14 @@ Overall, our survey respondents overwhelmingly report that they refer to a speci
 
 Of course, as with all things in this survey, age is yet again the only significant predictor on this topic. When controlling for age, Gatorade favorability, gender, ideology, income, and race, younger respondents are more likely to refer to Gatorade by the color (and the inverse is true for older respondents).
 
+![](https://raw.githubusercontent.com/GWarrenn/gwarrenn.github.io/gatorade-ranking/images/gatorade_ranking/7_Regression%20Coefs%20--%20Flavor%20or%20Color.png)
+
 Thanks & Conclusion
 --------------
 
 Thank you to everyone who took the survey and eagerly shared it with their network -- special thanks to my roommates Mahkah, Mika and Chris (even though some of them are wrong about Orange Gatorade) for pushing me to actually release the survey after I wrote it and then was too chicken to send it out and [the Snacket](https://www.facebook.com/groups/391870207855543/) for just being crazy fanatic about snacks. Obviously I wouldn't be able to do any of this work without you all taking the time to enter your opinions.  
+
+All of the analysis project was done in R. Source code can be found here: [https://github.com/GWarrenn/this-and-that/blob/master/definitive-gatorade-ranking/scripts/gatorade-ranking.R](https://github.com/GWarrenn/this-and-that/blob/master/definitive-gatorade-ranking/scripts/gatorade-ranking.R). If you have any interest in the underlying data, please reach out (I'd rather not just post the data publically without any kind of data suppression).
 
 Survey Demographics
 --------------
