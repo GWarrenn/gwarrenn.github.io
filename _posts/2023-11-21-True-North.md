@@ -11,6 +11,10 @@ Drawing heavily from one of my favorite YouTube channels Map Men, who tackled th
 
 So, please join me in helping to contribute to another Thanksgiving Day argument at the table: [Fill out the survey here](https://what-is-california-726e.onrender.com/)
 
+<figure class="video_container">
+<iframe width="1000" height="2000" src="https://what-is-california-726e.onrender.com/" frameborder="0" allowfullscreen="true"></iframe>
+</figure>
+
 Technical Bits
 --------------
 
