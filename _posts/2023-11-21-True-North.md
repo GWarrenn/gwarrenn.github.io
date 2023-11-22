@@ -9,7 +9,7 @@ I'm not from California. I'm from Michigan, but over the years I've met plenty o
 
 Drawing heavily from one of my favorite YouTube channels Map Men, who tackled the question of [Where is the north/south divide](https://www.youtube.com/watch?v=ENeCYwms-Cc) of England, I decided to try and apply this to California, but with a more formal/quantifiable method of measuring opinion. This application is built to allow users to draw a line through California, along with some precious demographic information, that defines how they view the north/south boundary in California.
 
-So, please join me in helping to contribute to another Thanksgiving Day argument at the table: [Fill out the survey here](https://what-is-california-726e.onrender.com/)
+So, please join me in helping to contribute to another Thanksgiving Day (or whatever holiday is closest to when you're reading this) argument at the table. You can either access the full survey platform thing here https://what-is-california-726e.onrender.com/ or via the embed below. I'll leave the website open for as long as I can before I start incurring large hosting bills and then report back on the findings. 
 
 <figure class="video_container">
 <iframe width="1000" height="800" src="https://what-is-california-726e.onrender.com/" frameborder="0" allowfullscreen="true"></iframe>
